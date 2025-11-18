@@ -4,8 +4,8 @@
 ##### Version: 1.1
 ##### ID: 1.3.6.1.4.1.33097.1.0
 ##### Document URLs:
-[SimpleZigguratDiskStructures.pdf](http://github.com/adligo/papers.adligo.com/data_structures/SimpleZigguratDiskStructures.pdf)
-[SimpleZigguratDiskStructures.odt](http://github.com/adligo/papers.adligo.com/data_structures/SimpleZigguratDiskStructures.odt)
+- [SimpleZigguratDiskStructures.pdf](http://github.com/adligo/papers.adligo.com/data_structures/SimpleZigguratDiskStructures.pdf)
+- [SimpleZigguratDiskStructures.odt](http://github.com/adligo/papers.adligo.com/data_structures/SimpleZigguratDiskStructures.odt)
 ##### Questions Comments:
 [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
 
