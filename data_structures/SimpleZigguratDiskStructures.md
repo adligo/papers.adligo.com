@@ -27,9 +27,9 @@
 &nbsp;&nbsp;&nbsp;The Ziggurat Disk Structure is designed to be layered on standard UNIX (Apple/Mac) and Windows file systems as well as GFS (Google File System), HDFS (Hadoop File System) and can be adapted to other physical disk structures.  It consists of a virtual associative array structure inspired by Peter van Emde Boaz Trees.  However, it makes use of a fractal like disk pattern as the data elements are NOT expected to be known at the time of structure initialization.
    
 # Table of Contents
-- [The Virtual Ziggurat Disk Structure Elements](#The-Virtual-Ziggurat-Disk-Structure-Elements)
-    - [Diagram #1](#Diagram-1)
-    - [Diagram #2](#Diagram-2)
+- [The Virtual Ziggurat Disk Structure Elements](#the-virtual-ziggurat-disk-structure-elements)
+    - [Diagram #1](#diagram-1)
+    - [Diagram #2](#diagram-2)
 - [The Physical to Virtual Ziggurat Disk Structure Mappings](#The-Physical-to-Virtual-Ziggurat-Disk-Structure-Mappings)
     - [Diagram 3 Entity per File](Diagram-3-Entity-per-File)
     - [Diagram 4 Multiple Entities per File / RDBMS Style](#Diagram-4-Multiple-Entities-per-File-/-RDBMS-Style)
