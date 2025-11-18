@@ -31,11 +31,11 @@
     - [Diagram #1](#diagram-1)
     - [Diagram #2](#diagram-2)
 - [The Physical to Virtual Ziggurat Disk Structure Mappings](#The-Physical-to-Virtual-Ziggurat-Disk-Structure-Mappings)
-    - [Diagram 3 Entity per File](Diagram-3-Entity-per-File)
-    - [Diagram 4 Multiple Entities per File / RDBMS Style](#Diagram-4-Multiple-Entities-per-File-/-RDBMS-Style)
-    - [Diagram 5 Hybrid Entity Relational](#Diagram-5-Hybrid-Entity-Relational)
-- [Conclusion](#Conclusion)
-- [Citations / References](3Citations-/-References)	
+    - [Diagram 3 Entity per File](diagram-3-entity-per-file)
+    - [Diagram 4 Multiple Entities per File / RDBMS Style](#diagram-4-multiple-entities-per-file-/-rdbms-style)
+    - [Diagram 5 Hybrid Entity Relational](#diagram-5-hybrid-entity-relational)
+- [Conclusion](#conclusion)
+- [Citations / References](#citations-/-references)	
 
 
 ## The Virtual Ziggurat Disk Structure Elements
@@ -45,18 +45,48 @@
 ## Diagram 1
 ![Diagram 1](simpleZigguratDiskStructures/ZigguratVirtualLevel0-1.drawio.png "Diagram #1")
 
+&nbsp;&nbsp;&nbsp;There MAY be any number of virtual parent arrays to create a unbounded universe of slots (provided your programming language supports infinite positive numbers).  Note most programming languages do NOT support infinite positive integers.  However, very large positive integers are supported in code like Java's BigInteger class.    
+
+&nbsp;&nbsp;&nbsp;Diagram #2 illustrates additional levels of virtual arrays and their association.  With levels 0-3 we would be able to store 64 data elements with a height under level 1, 512 after growing the virtual associative array structure to level 2 and 4,096 after growing the virtual associative array structure to level 2.  This growing virtual array structure can go on forever to continue to grow the structure to any size as necessary.   
+   
 ## Diagram 2
 ![Diagram 2](simpleZigguratDiskStructures/ZigguratVirtualLevel1-3.drawio.png "Diagram #2")
 
 ## The Physical to Virtual Ziggurat Disk Structure Mappings
 
+&nbsp;&nbsp;&nbsp;At the top of the physical Ziggurat Disk Structure some sort of manifest file should exist which identifies the size of the arrays.  This file could also contain other metadata.
+&nbsp;&nbsp;&nbsp;Each data element is identified as being stored in a slot.  The slot numbers are abbreviated as sX, and the X comes from the respective virtual array slot (i.e. 0-7 in our example diagrams).  The levels are also abbreviated as lX and the X comes from the respective virtual associative arrays level (i.e. 0-3 in our examples.  This gives us names like;
+
+- l0s0 → interpreted as level 0 slot 0
+- l2s1 → interpreted as level 2 slot 1
+- l3s7 → interpreted as level 3 slot 7
+
+&nbsp;&nbsp;&nbsp;Under the top parent folder of the Ziggurat Disk Structure the slot zero folders are created for each virtual parent array.  You can see in Diagram #3 that the three files (l0s0.json, l0s1.json and l0s2.json) have been added under the l1s0 folder.  These are different files than the files in green at the right under the l1s0 folder.  Diagram #3 illustrates a entity style structure where each entity is stored in a separate physical file (i.e. l0s0.json). 
+&nbsp;&nbsp;&nbsp;In this diagram the summary information would be included in the respective summary files (i.e. l1s0.bin).  Symlinks would be optional as they are supported by some file systems but not others.
+   
 ## Diagram 3 Entity per File
 ![Diagram 3](simpleZigguratDiskStructures/ZigguratPhysicalLevel0-3.drawio.png "Diagram #3")
 
 ## Diagram 4 Multiple Entities per File / RDBMS Style
 
+&nbsp;&nbsp;&nbsp;Diagram #4 illustrates what a Ziggurat Disk Structure might look like if you were storing one data entity per row in binary files similar to the way most RDBMS (Relational Database Management Systems) do this.  For example l1s0.bin would contain 8 rows one row for each slot in the virtual array.  This is often how ACID (Atomic Consistent Independent Durable) transaction code is implemented. 
+&nbsp;&nbsp;&nbsp;In this diagram the summary information would be included in the .bin file (i.e. l1s0.bin).  Symlinks would be optional as they are supported by some file systems but not others.
+
+![Diagram 4](simpleZigguratDiskStructures/ZigguratPhysicalLevel0-3Rdbms.drawio.png "Diagram #4")
+   
 ## Diagram 5 Hybrid Entity Relational
+&nbsp;&nbsp;&nbsp;Diagram #5 illustrates a hybrid Ziggurat Disk Structure.  In this structure the traditional RDBMS binary file with one row per entity is augmented with the addition of one file per data entity.  This give the flexibility of faster query implementations (i.e. SQL) in the table structure, with the addition of more complex tree like data structures in the Json (or XML, etc) formats. 
+&nbsp;&nbsp;&nbsp;In this diagram the summary information would be included in the .bin file (i.e. l1s0.bin).  Symlinks would be optional as they are supported by some file systems but not others.
+![Diagram 5](simpleZigguratDiskStructures/ZigguratPhysicalLevel0-3Hybrid.drawio.png "Diagram #5")
 
 ## Conclusion
 
+&nbsp;&nbsp;&nbsp;The Ziggurat Disk Structure is a simple versatile file and folder management system that can be leveraged to facilitate unbounded heap prioritization systems, blockchains and flexible RDBMS, entity and hybrid data storage systems.
+   
 ## Citations / References	
+
+["The Google File System" by Sanjay Ghemawat et al. (2003): This paper presents the design of the Google File System (GFS), a distributed file system that has inspired many modern distributed storage systems.](https://www.researchgate.net/publication/220910111_The_Google_File_System)
+
+[https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+
+[Tromp, John & van Emde Boas, Peter. (1992). Associative Storage Modification Machines.. 291-313.](researchgate.net/profile/Peter-Van-Emde-Boas/publication/221024873_Associative_Storage_Modification_Machines/links/54102b840cf2df04e75b34ce/Associative-Storage-Modification-Machines.pdf)
