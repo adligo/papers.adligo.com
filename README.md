@@ -93,7 +93,7 @@ In order of importance
 ## Adligo.org Overview
 
 If you are looking for a overview of the adligo.org open source Bash, Java, Javascript and Typescript suites go here;
-[https://github.com/adligo/overview.adligo.com](https://github.com/adligo/overview.adligo.com)
+[https://adligo.github.io/overview.adligo.org/](https://adligo.github.io/overview.adligo.org/)
 
 ## Hosting 
 This site is hosted using GitHub Pages from this git repo;
