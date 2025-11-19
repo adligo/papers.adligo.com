@@ -19,3 +19,5 @@ We use extensions of this number to uniquely identify various papers and their c
 
   
 [Papers Index](../Index.md)
+
+© Copyright 2025 Adligo Inc
