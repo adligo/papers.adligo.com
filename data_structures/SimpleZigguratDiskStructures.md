@@ -9,7 +9,7 @@
 ##### Questions Comments:
 [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
 
-[Papers Index](../Index.md)
+[Papers Index](../README.md)
 
 # Summary
 

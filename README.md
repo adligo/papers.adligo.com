@@ -45,6 +45,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### 3D Ziggurat Disk Structures
 ##### 3D Ziggurat RAM Structures
 ##### CompressedBitBlocks
+##### DoublyLinkedArrayBitBlocks
 ##### Nested Ziggurat Disk Structures
 ##### Nested Ziggurat RAM Structures
 ##### N-Dimensional Ziggurat Disk Structures

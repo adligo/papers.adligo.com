@@ -20,6 +20,6 @@ We use extensions of this number to uniquely identify various papers and their c
 ### Programming Styles → #1.3.6.1.4.1.33097.4
 
   
-[Papers Index](../Index.md)
+[Papers Index](../README.md)
 
 © Copyright 2025 Adligo Inc
