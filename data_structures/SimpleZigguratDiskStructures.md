@@ -9,6 +9,8 @@
 ##### Questions Comments:
 [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
 
+[Papers Index](../Index.md)
+
 # Summary
 
 &nbsp;&nbsp;&nbsp;This paper codifies the Ziggurat Disk Structure which is an abstract on-disk data structure for files and folders (aka Directories).  The Ziggurat Disk Structure stores files which are identified by a positive integer identifier (i.e. 0,1,2,3,4, etc).  It is designed to be human and machine readable, however the emphasis is machine readability and speed.  

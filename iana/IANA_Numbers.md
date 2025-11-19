@@ -9,8 +9,13 @@ We use extensions of this number to uniquely identify various papers and their c
 
 ### Algorithms → #1.3.6.1.4.1.33097.0
 
+### Architectural Patterns → #1.3.6.1.4.1.33097.3
+
 ### Data Structures → #1.3.6.1.4.1.33097.1
 
 ### Design Patterns → #1.3.6.1.4.1.33097.2
 
-[README.md](README.md)
+### Programming Styles → #1.3.6.1.4.1.33097.4
+
+  
+[Papers Index](../Index.md)
