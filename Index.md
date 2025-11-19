@@ -1,6 +1,6 @@
 # Adligo Inc Papers
 
-Welcome to the Adligo Inc Papers site, which focuses on algorithms, data structures, architectural and design patterns, and programming styles created by Adligo Inc.
+Welcome to the Adligo Inc Papers site, which focuses on algorithms, data structures, architectural and software design patternsalgorithms, data normalization techniques and programming styles as defined by Adligo Inc.
 
 This is a place to store academic and non-academic papers mostly in markdown files converted to open office text and pdf files, to share various ideas.  This site is copy written however all ideas here are free to use and often cite other work in the public domain.
 
@@ -15,11 +15,22 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Architectural Patterns
 
+These are patterns that involve the interaction of multiple systems / programs.
+
 ##### Coming Soon ...
 ##### Micro-Services Summary
 ##### Extract Transform Load
 ##### Extract Load Transform
 ##### The Message Signal Event Pattern
+
+## Data Normalization
+
+##### Coming Soon ...
+##### Tabular Normal Forms
+##### The Theory of Integer Normalization
+##### Decimal to Integer Tuple Normalization
+##### String Normalization
+##### String to Integer Normalization
 
 ## Data Structures
 
@@ -27,7 +38,7 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ##### Coming Soon ...
 ##### Abstract BitBlocks
-##### Abstract Ziggurat Structure
+##### Abstract Ziggurats
 ##### ArrayBitBlocks
 ##### 2D Ziggurat Disk Structures
 ##### 2D Ziggurat RAM Structures
@@ -40,13 +51,15 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 ##### N-Dimensional Ziggurat RAM Structures
 ##### RedBlackBitBlocks
 ##### Simple Ziggurat RAM Structures 
+##### SingleEntryBitBlocks
 
-## Design Patterns
+## Software Design Patterns
+
+These are patterns that occur inside of a single system / program.
 
 ##### Coming Soon ...
 In order of importance
-##### Value Objects and Object Orientation
-##### Classification Orientation
+##### Value Objects
 ##### Sharable Aggregation
 ##### Encapsulation
 ##### Composition
@@ -69,8 +82,9 @@ In order of importance
 ##### The Functional Style
 ##### The Procedural Style
 ##### The Object Orientated Style
+##### The Class Orientated Style
 ##### The Imperative Style
-##### The Functional Classification Orientation Style (FCO)
+##### The Functional Class Orientated Style (FCO)
 
 ## Citations and IANA Usage
 [IANA_Numbers](iana/IANA_Numbers.md)
