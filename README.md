@@ -1,6 +1,6 @@
 # Adligo Inc Papers
 
-Welcome to the Adligo Inc Papers site, which focuses on algorithms, data structures, architectural and software design patternsalgorithms, data normalization techniques and programming styles as defined by Adligo Inc.
+Welcome to the Adligo Inc Papers site, which focuses on algorithms, data structures, architectural and software design patterns, algorithms, data normalization techniques and programming styles as defined by Adligo Inc.
 
 This is a place to store academic and non-academic papers mostly in markdown files converted to open office text and pdf files, to share various ideas.  This site is copy written however all ideas here are free to use and often cite other work in the public domain.
 
@@ -10,8 +10,8 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Algorithms
 
-##### Coming Soon ...
-##### Binary Fractal Range Search
+##### [BinarySearch#1.3.6.1.4.1.33097.0.0](algorithms\BinarySearch.md)
+##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.1](algorithms\BinaryFractalRangeSearch.md)
 
 ## Architectural Patterns
 
@@ -32,13 +32,40 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### String Normalization
 ##### String to Integer Normalization
 
-## Data Structures
+## Abstract Data Structures
 
-##### [Simple Ziggurat Disk Structures](data_structures/SimpleZigguratDiskStructures.md)
+##### Id: #1.3.6.1.4.1.33097.1.0
+These are abstract data structures that may have multiple implementations each with specific concrete implementation details.
+
+##### [Lists#1.3.6.1.4.1.33097.1.0.0](data_structures/Lists.md)
+##### [BinaryTrees#1.3.6.1.4.1.33097.1.0.1](data_structures/BinaryTrees.md)
+##### [Blocks#1.3.6.1.4.1.33097.1.0.2](data_structures/Blocks.md)
+##### [Maps#1.3.6.1.4.1.33097.1.0.3](data_structures/Maps.md)
+##### [Hashtables#1.3.6.1.4.1.33097.1.0.4](data_structures/Hashtables.md)
+##### [AssociativeArrays#1.3.6.1.4.1.33097.1.0.5](data_structures/AssociativeArrays.md)
+##### [Sets#1.3.6.1.4.1.33097.1.0.6](data_structures/Sets.md)
+
+##### [B-Trees#1.3.6.1.4.1.33097.1.0.6](data_structures/B-Trees.md)
+##### [BitBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitBlocks.md)
+##### [Ziggurats#1.3.6.1.4.1.33097.1.0.8](data_structures/Ziggurats.md)
+
+## Concrete Data Structures
+
+##### Id: #1.3.6.1.4.1.33097.1.1
+
+##### [Arrays#1.3.6.1.4.1.33097.1.1.0](data_structures/Arrays.md)
+##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](data_structures/ArrayLists.md)
+##### [BitArrays#1.3.6.1.4.1.33097.1.1.2](data_structures/BitArrays.md)
+##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](data_structures/BitSlotMaps.md)
+
+##### DoublyLinkedLists
+##### LinkedLists
+
+
+
+##### [SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100](data_structures/SimpleZigguratDiskStructures.md)
 
 ##### Coming Soon ...
-##### Abstract BitBlocks
-##### Abstract Ziggurats
 ##### ArrayBitBlocks
 ##### 2D Ziggurat Disk Structures
 ##### 2D Ziggurat RAM Structures
@@ -53,6 +80,13 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### RedBlackBitBlocks
 ##### Simple Ziggurat RAM Structures 
 ##### SingleEntryBitBlocks
+
+## Data Structures Aliases
+
+##### Id: #1.3.6.1.4.1.33097.1.2
+
+##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/Chunks.md)
+##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/Dictionaries.md)
 
 ## Software Design Patterns
 
