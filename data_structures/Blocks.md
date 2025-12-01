@@ -9,3 +9,10 @@ Id: 1.3.6.1.4.1.33097.1.0.2<br/>
 Blocks are an abstraction around [Arrays#1.3.6.1.4.1.33097.1.1.0](Arrays.md) or in other words a virtual Array like structure.  Like [Arrays#1.3.6.1.4.1.33097.1.1.0](Arrays.md) Blocks contain slots between 0 and n, where n is a positive integer defined at the Block creation time.  The Block abstraction does NOT guarantee any space or time complexity performance, as the underlying concrete data structure will determine performance.
 
 Blocks are also known as Chunks, or arbitrary sections of data.  
+
+##### Questions Comments:
+[papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
+
+[Papers Index](../README.md)
+
+### Citations

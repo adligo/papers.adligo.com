@@ -9,7 +9,7 @@ We use extensions of this number to uniquely identify various papers and their c
 
 ### Algorithms → #1.3.6.1.4.1.33097.0
 
-### Architectural Patterns → #1.3.6.1.4.1.33097.3
+### Architectural Software Patterns → #1.3.6.1.4.1.33097.3
 
 ### Data Normalization → #1.3.6.1.4.1.33097.5
 
@@ -19,7 +19,10 @@ We use extensions of this number to uniquely identify various papers and their c
 
 ### Programming Styles → #1.3.6.1.4.1.33097.4
 
+### Mathmatical Terms → #1.3.6.1.4.1.33097.5
   
+### Programming Languages → #1.3.6.1.4.1.33097.6
+
 [Papers Index](../README.md)
 
 © Copyright 2025 Adligo Inc

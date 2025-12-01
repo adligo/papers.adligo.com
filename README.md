@@ -10,12 +10,15 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Algorithms
 
-##### [BinarySearch#1.3.6.1.4.1.33097.0.0](algorithms\BinarySearch.md)
-##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.1](algorithms\BinaryFractalRangeSearch.md)
+##### [BinarySearch#1.3.6.1.4.1.33097.0.0](algorithms/BinarySearch.md)
+##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.1](algorithms/BinaryFractalRangeSearch.md)
 
 ## Architectural Patterns
 
 These are patterns that involve the interaction of multiple systems / programs.
+
+##### [ACID#1.3.6.1.4.1.33097.3.0](architecture/ACID.md)
+##### [BASE#1.3.6.1.4.1.33097.3.1](architecture/BASE.md)
 
 ##### Coming Soon ...
 ##### Micro-Services Summary
@@ -25,12 +28,14 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Data Normalization
 
+##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](normalization/RelationalNormalForms.md)
+
 ##### Coming Soon ...
-##### Tabular Normal Forms
-##### The Theory of Integer Normalization
-##### Decimal to Integer Tuple Normalization
 ##### String Normalization
 ##### String to Integer Normalization
+##### Integer Normalization Theory
+##### Decimal to Integer Tuple Normalization
+
 
 ## Abstract Data Structures
 
@@ -46,7 +51,7 @@ These are abstract data structures that may have multiple implementations each w
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](data_structures/Sets.md)
 
 ##### [B-Trees#1.3.6.1.4.1.33097.1.0.6](data_structures/B-Trees.md)
-##### [BitBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitBlocks.md)
+##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitSlotBlocks.md)
 ##### [Ziggurats#1.3.6.1.4.1.33097.1.0.8](data_structures/Ziggurats.md)
 
 ## Concrete Data Structures
@@ -55,7 +60,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ##### [Arrays#1.3.6.1.4.1.33097.1.1.0](data_structures/Arrays.md)
 ##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](data_structures/ArrayLists.md)
-##### [BitArrays#1.3.6.1.4.1.33097.1.1.2](data_structures/BitArrays.md)
+##### [BitVectors#1.3.6.1.4.1.33097.1.1.2](data_structures/BitVectors.md)
 ##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](data_structures/BitSlotMaps.md)
 
 ##### DoublyLinkedLists

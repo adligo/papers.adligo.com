@@ -12,6 +12,11 @@ For example your current address and your destination address (a cumulative key)
 
 [https://www.google.com/maps](https://www.google.com/maps)
 
+##### Questions Comments:
+[papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
+
+[Papers Index](../README.md)
+
 ### Citations
 
 [https://docs.oracle.com/javase/8/docs/api/java/util/Map.html](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
