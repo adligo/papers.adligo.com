@@ -28,13 +28,14 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Data Normalization
 
-##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](normalization/RelationalNormalForms.md)
-
-##### Coming Soon ...
-##### String Normalization
-##### String to Integer Normalization
-##### Integer Normalization Theory
-##### Decimal to Integer Tuple Normalization
+[RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
+[StringNormalization#1.3.6.1.4.1.33097.5.1](data/StringNormalization.md)
+[IntegerNormalizationTheory#1.3.6.1.4.1.33097.5.2](data/IntegerNormalizationTheory.md)
+[StringToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.3](data/StringToIntegerArrayNormalization.md)
+[DecimalToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.4](data/DecimalToIntegerArrayNormalization.md)
+[Encoding#1.3.6.1.4.1.33097.5.5](data/Encoding.md)
+[VectorEncoding#1.3.6.1.4.1.33097.5.6](data/VectorEncoding.md)
+[VectorEmbedding#1.3.6.1.4.1.33097.5.7](data/VectorEmbedding.md)
 
 
 ## Abstract Data Structures
@@ -46,13 +47,14 @@ These are abstract data structures that may have multiple implementations each w
 ##### [BinaryTrees#1.3.6.1.4.1.33097.1.0.1](data_structures/BinaryTrees.md)
 ##### [Blocks#1.3.6.1.4.1.33097.1.0.2](data_structures/Blocks.md)
 ##### [Maps#1.3.6.1.4.1.33097.1.0.3](data_structures/Maps.md)
-##### [Hashtables#1.3.6.1.4.1.33097.1.0.4](data_structures/Hashtables.md)
+##### [HashTables#1.3.6.1.4.1.33097.1.0.4](data_structures/HashTables.md)
+##### [HashCodes#1.3.6.1.4.1.33097.1.0.4.0](data_structures/HashCodes.md)
+##### [ConsistentHashCodes#1.3.6.1.4.1.33097.1.0.4.1](data_structures/ConsistentHashCodes.md)
+##### [HashCodeChains#1.3.6.1.4.1.33097.1.0.4.2](data_structures/HashCodeChains.md)
+##### [ConsistentHashCodeChains#1.3.6.1.4.1.33097.1.0.4.3](data_structures/ConsistentHashCodeChains.md)
 ##### [AssociativeArrays#1.3.6.1.4.1.33097.1.0.5](data_structures/AssociativeArrays.md)
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](data_structures/Sets.md)
-
-##### [B-Trees#1.3.6.1.4.1.33097.1.0.6](data_structures/B-Trees.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitSlotBlocks.md)
-##### [Ziggurats#1.3.6.1.4.1.33097.1.0.8](data_structures/Ziggurats.md)
 
 ## Concrete Data Structures
 

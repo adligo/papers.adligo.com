@@ -27,12 +27,17 @@ This file is in id number space order;
 ##### [BinaryTrees#1.3.6.1.4.1.33097.1.0.1](BinaryTrees.md)
 ##### [Blocks#1.3.6.1.4.1.33097.1.0.2](Blocks.md)
 ##### [Maps#1.3.6.1.4.1.33097.1.0.3](Maps.md)
-##### [Hashtables#1.3.6.1.4.1.33097.1.0.4](Hashtables.md)
+##### [HashTables#1.3.6.1.4.1.33097.1.0.4](HashTables.md)
+##### [HashCodes#1.3.6.1.4.1.33097.1.0.4.0](HashCodes.md)
+##### [ConsistentHashCodes#1.3.6.1.4.1.33097.1.0.4.1](ConsistentHashCodes.md)
+##### [HashCodeChains#1.3.6.1.4.1.33097.1.0.4.2](HashCodeChains.md)
+##### [ConsistentHashCodeChains#1.3.6.1.4.1.33097.1.0.4.3](ConsistentHashCodeChains.md)
 ##### [AssociativeArrays#1.3.6.1.4.1.33097.1.0.5](AssociativeArrays.md)
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](Sets.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](BitSlotBlocks.md)
 
-Ziggurats
+##### [Ziggurats#1.3.6.1.4.1.33097.1.0.50](Ziggurats.md)
+
 
 
 ## Concrete Data Structures

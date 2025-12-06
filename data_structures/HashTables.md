@@ -1,4 +1,4 @@
-# Hashtables
+# HashTables
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

@@ -13,7 +13,7 @@ BitSlotMaps a non growable bunch of bits and are identical to [BitVectors#1.3.6.
 
 ### Associated Algorithms
 
-[BinaryFractialRangeSearch#1.3.6.1.4.1.33097.0.1](../algorithms/BinaryFractialRangeSearch.md)
+[BinaryFractialRangeSearch#1.3.6.1.4.1.33097.0.1](../algorithms/BinaryFractalRangeSearch.md)
 
 ### Siblings
 

@@ -1,6 +1,12 @@
 # Tabular Normal Forms
 
-1.3.6.1.4.1.33097.5.0
+<div>
+<strong>Author:</strong> Scott Morgan<br/>
+<strong>Created:</strong> 2025-11-25<br/>
+<strong>Edited:</strong> 2025-12-02<br/>
+<strong>Id:</strong> 1.3.6.1.4.1.33097.5.0<br/>
+<strong>Copywrite 2025 Adligo Inc</strong>
+</div>
 
 Normalization and the normal forms are essentially a system for de-duplication of data.  More formally this has been described as a way of reducing data inconsistancy and improve data integrity. 
 
@@ -27,6 +33,8 @@ A minimal set of attributes that can uniquely identify a tuple (row) in a relati
 
 1.3.6.1.4.1.33097.5.0.1.2
 
+A attribute that is part of at least one candidate key in a database table.
+
 #### Super Key
 
 1.3.6.1.4.1.33097.5.0.1.3
@@ -37,13 +45,31 @@ Any set of attributes that includes a candidate key. It can uniquely identify tu
 
 1.3.6.1.4.1.33097.5.0.1.4
 
-A relationship between two sets of attributes where the value of one set determines the value of another. For example, (CustomerID → CustomerName). The first set (CustomerID) is the determinant.
+An attribute that is part of an elementary key. 
 
 #### Functional Attribute Dependency
 
 1.3.6.1.4.1.33097.5.0.1.5
 
 A relationship between two sets of attributes where the value of one set determines the value of another. For example, (CustomerID → CustomerName). The first set (CustomerID) is the determinant.
+
+#### Datum
+
+1.3.6.1.4.1.33097.5.0.1.6
+
+A peice of information.
+
+#### Elementary Key
+
+1.3.6.1.4.1.33097.5.0.1.7
+
+A candidate key (a minimal superkey) is considered an elementary key if there exists at least one attribute it determines where the functional dependency is elementary.
+
+#### Elementary Functional Dependency
+
+1.3.6.1.4.1.33097.5.0.1.8
+
+A non-trivial functional dependency X → Y is elementary if there is no smaller proper subset of X that also determines Y (i.e., it is a full functional dependency with a minimal determinant).
 
 ## Normal Forms
 
@@ -90,31 +116,73 @@ A relation (or a table, in SQL) can be said to be in first normal form if each f
 
 ##### 3NF.1 Every non-trivial functional dependency either begins with a superkey or ends with a prime attribute (attributes depend only on candidate keys)
 
-1.3.6.1.4.1.33097.5.0.0.3.1
+1.3.6.1.4.1.33097.5.0.0.3.1 
 
 ### BCNF The Boyce–Codd Normal Form (circa 1974)
 
 1.3.6.1.4.1.33097.5.0.0.3.5 
 
+### BCNF.0 Every datum must first be in NF3
+
+1.3.6.1.4.1.33097.5.0.0.3.5.0
+
+### BCNF.1 Every datum must first be in EKNF
+
+1.3.6.1.4.1.33097.5.0.0.3.5.1
+
+Note this is a strange rule that seems to have been discovered at some point after BCNF was created and added to wikipedia.
+
+### BCNF.2 Every non-trivial functional dependency begins with a superkey (a stricter form of 3NF)
+
+1.3.6.1.4.1.33097.5.0.0.3.5.2
+
 ### 4NF The Fourth Normal Form (circa 1977)
 
 1.3.6.1.4.1.33097.5.0.0.4
 
-### 4NF The Fifth Normal Form (circa 1979)
+### 4NF.0 Every datum must first be in BCNF
 
-1.3.6.1.4.1.33097.5.0.0.5
+1.3.6.1.4.1.33097.5.0.0.4.0
+
+### 4NF.1 Every non-trivial multivalued dependency begins with a superkey
+
+1.3.6.1.4.1.33097.5.0.0.4.1
 
 ### 5NF The Fifth Normal Form (circa 1979)
 
 1.3.6.1.4.1.33097.5.0.0.5
 
+### 5NF.0 Every datum must first be in 4NF
+
+1.3.6.1.4.1.33097.5.0.0.5.0
+
+### 5NF.1 Every join dependency has only superkey components
+
+1.3.6.1.4.1.33097.5.0.0.5.1
+
 ### DKNF The Domain Key Form (circa 1981)
 
 1.3.6.1.4.1.33097.5.0.0.80.0
 
+### DKNF.0 Every datum must first be in 5NF
+
+1.3.6.1.4.1.33097.5.0.0.80.0.0
+
+### DKNF.1 Every constraint is a consequence of domain constraints and key constraints
+
+1.3.6.1.4.1.33097.5.0.0.80.0.1
+
 ### EKNF The Elementary Key Form (circa 1982)
 
 1.3.6.1.4.1.33097.5.0.0.80.1
+
+### EKNF.0 Every datum must first be in NF3
+
+1.3.6.1.4.1.33097.5.0.0.80.1.0
+
+### EKNF.1 Every non-trivial functional dependency either begins with a superkey or ends with an elementary prime attribute (a stricter form of 3NF)
+
+1.3.6.1.4.1.33097.5.0.0.80.1.1
 
 ### 6NF The Sixth Form (circa 2003)
 
@@ -133,16 +201,16 @@ The normal forms were added to this file first because they are of more importan
 
 ### Citations
 
-[codd-358396.358400₂](https://dl.acm.org/doi/10.1145/358396.358400)
+- [codd-358396.358400₂](https://dl.acm.org/doi/10.1145/358396.358400)
 
-[https://en.wikipedia.org/wiki/Unnormalized_form](https://en.wikipedia.org/wiki/Unnormalized_form)
+- [https://en.wikipedia.org/wiki/Unnormalized_form](https://en.wikipedia.org/wiki/Unnormalized_form)
 
-[https://en.wikipedia.org/wiki/Database_normalization](https://en.wikipedia.org/wiki/Database_normalization)
+- [https://en.wikipedia.org/wiki/Database_normalization](https://en.wikipedia.org/wiki/Database_normalization)
 
-[https://en.wikipedia.org/wiki/Codd%27s_12_rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
+- [https://en.wikipedia.org/wiki/Codd%27s_12_rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 
-[https://twobithistory.org/2017/12/29/codd-relational-model.html](https://twobithistory.org/2017/12/29/codd-relational-model.html)
+- [https://twobithistory.org/2017/12/29/codd-relational-model.html](https://twobithistory.org/2017/12/29/codd-relational-model.html)
 
-[codd-relational.pdf₁](https://cs.uwaterloo.ca/~david/cs848s14/codd-relational.pdf)
+- [codd-relational.pdf₁](https://cs.uwaterloo.ca/~david/cs848s14/codd-relational.pdf)
 
-[https://www.vervecopilot.com/interview-questions/can-understanding-boyce-codd-be-your-secret-weapon-in-technical-interviews](https://www.vervecopilot.com/interview-questions/can-understanding-boyce-codd-be-your-secret-weapon-in-technical-interviews)
+- [https://www.vervecopilot.com/interview-questions/can-understanding-boyce-codd-be-your-secret-weapon-in-technical-interviews](https://www.vervecopilot.com/interview-questions/can-understanding-boyce-codd-be-your-secret-weapon-in-technical-interviews)
