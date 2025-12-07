@@ -36,7 +36,7 @@ This file is in id number space order;
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](Sets.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](BitSlotBlocks.md)
 
-##### [Ziggurats#1.3.6.1.4.1.33097.1.0.50](Ziggurats.md)
+##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](ZigguratIndices.md)
 
 
 
@@ -48,7 +48,7 @@ This file is in id number space order;
 ##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](ArrayLists.md)
 ##### [BitSets#1.3.6.1.4.1.33097.1.1.2](BitSets.md)
 ##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](BitSlotMaps.md)
-##### [B-Trees#1.3.6.1.4.1.33097.1.1.4](B-Trees.md)
+##### [B-TreeIndices#1.3.6.1.4.1.33097.1.1.4](B-TreeIndices.md)
 ##### [LinkedLists#1.3.6.1.4.1.33097.1.1.5](LinkedLists.md)
 ##### [DoublyLinkedLists#1.3.6.1.4.1.33097.1.1.6](DoublyLinkedLists.md)
 ##### [Heaps#1.3.6.1.4.1.33097.1.1.7](Heaps.md)

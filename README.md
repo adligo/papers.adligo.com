@@ -56,17 +56,26 @@ These are abstract data structures that may have multiple implementations each w
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](data_structures/Sets.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitSlotBlocks.md)
 
+##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](data_structures/ZigguratIndices.md)
+
 ## Concrete Data Structures
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
 
 ##### [Arrays#1.3.6.1.4.1.33097.1.1.0](data_structures/Arrays.md)
 ##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](data_structures/ArrayLists.md)
-##### [BitVectors#1.3.6.1.4.1.33097.1.1.2](data_structures/BitVectors.md)
+##### [BitSets#1.3.6.1.4.1.33097.1.1.2](data_structures/BitSets.md)
 ##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](data_structures/BitSlotMaps.md)
-
-##### DoublyLinkedLists
-##### LinkedLists
+##### [B-TreeIndices#1.3.6.1.4.1.33097.1.1.4](data_structures/B-TreeIndices.md)
+##### [LinkedLists#1.3.6.1.4.1.33097.1.1.5](data_structures/LinkedLists.md)
+##### [DoublyLinkedLists#1.3.6.1.4.1.33097.1.1.6](data_structures/DoublyLinkedLists.md)
+##### [Heaps#1.3.6.1.4.1.33097.1.1.7](data_structures/Heaps.md)
+##### [ArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.8](data_structures/ArrayBitSlotBlocks.md)
+##### [DoublyLinkedBitSlotBlocks#1.3.6.1.4.1.33097.1.1.9](data_structures/DoublyLinkedBitSlotBlocks.md)
+##### [CompressedArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.10](data_structures/CompressedArrayBitSlotBlocks.md)
+##### [RedBlackTrees#1.3.6.1.4.1.33097.1.1.11](data_structures/RedBlackTrees.md)
+##### [RedBlackBitSlotBlocks#1.3.6.1.4.1.33097.1.1.12](data_structures/RedBlackBitSlotBlocks.md)
+##### [SingleBitSlotBlocks#1.3.6.1.4.1.33097.1.1.13](data_structures/SingleBitSlotBlocks.md)
 
 
 

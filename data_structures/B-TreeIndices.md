@@ -1,4 +1,4 @@
-# B-Trees
+# B-TreeIndices
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
