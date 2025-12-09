@@ -96,6 +96,6 @@
 
 [https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 
-[Tromp, John & van Emde Boas, Peter. (1992). Associative Storage Modification Machines.. 291-313.](researchgate.net/profile/Peter-Van-Emde-Boas/publication/221024873_Associative_Storage_Modification_Machines/links/54102b840cf2df04e75b34ce/Associative-Storage-Modification-Machines.pdf)
+[Tromp, John & van Emde Boas, Peter. (1992). Associative Storage Modification Machines.. 291-313.](http://researchgate.net/profile/Peter-Van-Emde-Boas/publication/221024873_Associative_Storage_Modification_Machines/links/54102b840cf2df04e75b34ce/Associative-Storage-Modification-Machines.pdf)
 
 © Copyright 2025 Adligo Inc
