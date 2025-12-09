@@ -108,7 +108,7 @@ Finally if a previous Ziggurat index was available it would need to be swapped o
 
 1.3.6.1.4.1.33097.1.0.50.3.1
 
-In order to simplify this section for most readers, this is essentially how something like [Oracle's OLDB RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) should work.
+In order to simplify this section for most readers, this is essentially how something like [Oracle's OLDB RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) or [Mongodb's Entity Database](https://www.mongodb.com/) should work.
 
 ##### Step 1) Index Creation or Modification
 
@@ -152,4 +152,10 @@ Ziggurats were originally envisioned in 2021 by Scott Morgan by applying Network
 - [Google](https://www.google.com/) 
 - [Google's MapReduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
+- [Mongodb's Entity Database](https://www.mongodb.com/)
+
 - [Oracle's OLDB RDBMS](https://en.wikipedia.org/wiki/Oracle_Database)
+
+- [Rebalancing Hash Tables with Anubhav](https://www.youtube.com/watch?v=Ccl8vI55FJM)
+
+- [](https://www.eecs.harvard.edu/~michaelm/NEWWORK/postscripts/simple_load_balancing.pdf)
