@@ -28,14 +28,14 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Data Normalization
 
-[RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
-[StringNormalization#1.3.6.1.4.1.33097.5.1](data/StringNormalization.md)
-[IntegerNormalizationTheory#1.3.6.1.4.1.33097.5.2](data/IntegerNormalizationTheory.md)
-[StringToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.3](data/StringToIntegerArrayNormalization.md)
-[DecimalToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.4](data/DecimalToIntegerArrayNormalization.md)
-[Encoding#1.3.6.1.4.1.33097.5.5](data/Encoding.md)
-[VectorEncoding#1.3.6.1.4.1.33097.5.6](data/VectorEncoding.md)
-[VectorEmbedding#1.3.6.1.4.1.33097.5.7](data/VectorEmbedding.md)
+##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
+##### [StringNormalization#1.3.6.1.4.1.33097.5.1](data/StringNormalization.md)
+##### [IntegerNormalizationTheory#1.3.6.1.4.1.33097.5.2](data/IntegerNormalizationTheory.md)
+##### [StringToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.3](data/StringToIntegerArrayNormalization.md)
+##### [DecimalToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.4](data/DecimalToIntegerArrayNormalization.md)
+##### [Encoding#1.3.6.1.4.1.33097.5.5](data/Encoding.md)
+##### [VectorEncoding#1.3.6.1.4.1.33097.5.6](data/VectorEncoding.md)
+##### [VectorEmbedding#1.3.6.1.4.1.33097.5.7](data/VectorEmbedding.md)
 
 
 ## Abstract Data Structures
