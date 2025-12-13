@@ -56,6 +56,12 @@ These are abstract data structures that may have multiple implementations each w
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](data_structures/Sets.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](data_structures/BitSlotBlocks.md)
 
+##### [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](data_structures/abstract/NodeNetworks.md)
+##### [DirectedNodeNetworks#1.3.6.1.4.1.33097.1.0.13](data_structures/abstract/DirectedNodeNetworks.md)
+##### [Graphs#1.3.6.1.4.1.33097.1.0.14](data_structures/abstract/Graphs.md)
+##### [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](data_structures/abstract/NodeNetworkSets.md)
+##### [DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16](data_structures/abstract/DirectedAcyclicGraphs.md)
+
 ##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](data_structures/ZigguratIndices.md)
 
 ## Concrete Data Structures

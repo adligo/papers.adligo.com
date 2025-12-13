@@ -110,23 +110,35 @@ Finally if a previous Ziggurat index was available it would need to be swapped o
 
 In order to simplify this section for most readers, this is essentially how something like [Oracle's OLDB RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) or [Mongodb's Entity Database](https://www.mongodb.com/) should work.
 
-##### Step 1) Index Creation or Modification
+##### Step 1) Write to the Transaction Attempt Log(s)
 
-1.3.6.1.4.1.33097.1.0.50.3.0.0
+1.3.6.1.4.1.33097.1.0.50.3.1.0
+
+Some databases may keep track of transactional attempts in order to provide replay services should nodes go down.  This optional step allows for this functionality.
+
+##### Step 2) Index Creation or Modification
+
+1.3.6.1.4.1.33097.1.0.50.3.1.1
 
 If the Ziggurat index doesn't exist on disk, a new Ziggurat index would be created in memory (RAM).  If the Ziggurat index did exist it would either be loaded into memory (RAM) or obtained from the Ziggurat Index's Cache.  This would create a transactional buffer that should be small enough in size to fit on a single computer, as creation or modification of large ZigguratIndicies will need to iterate through these steps multiple times.
 
-##### Step 2) Notify Caches and Flush the Transactional Buffer to Disk
+##### Step 3) Flush the Transactional Buffer to Disk
 
-1.3.6.1.4.1.33097.1.0.50.3.0.1
+1.3.6.1.4.1.33097.1.0.50.3.1.2
 
-The Next Step would be to notify the caches that the Ziggurat index is changing while also flushing the transactional buffer to disk.  This notification ensures that a stale index is not used upholding the C (Consistency) in ACID.
+The Next Step would be to flush the transactional buffer to disk.  This notification ensures that a stale index is not used upholding the C (Consistency) in ACID.
 
-##### Step 3) Notify Caches and Reload the Ziggurat Index's Cache
+##### Step 4) Notify Caches and Reload the Ziggurat Index's Cache
 
-1.3.6.1.4.1.33097.1.0.50.3.0.2
+1.3.6.1.4.1.33097.1.0.50.3.1.3
 
-Finally the new Ziggurat index's data would be loaded into the caches and made available to the rest of the database system.
+Finally the new Ziggurat index's data would be loaded into the caches and made available to the rest of the database system.  This step could be completed concurrently with Step 5.
+
+##### Step 5) Right to the Transactions Committed Log(s)
+
+1.3.6.1.4.1.33097.1.0.50.3.1.4
+
+Finally, the transactional log must be updated in order to ensure audibility long-term.  This step could be completed concurrently with Step 4.
 
 ### Notes
 

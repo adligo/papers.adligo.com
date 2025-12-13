@@ -23,6 +23,9 @@ This file is in id number space order;
 
 ##### Id: #1.3.6.1.4.1.33097.1.0
 
+TODO move to the abstract folder like Graphs, GraphSets, and DirectedAcyclicGraphs
+& update links
+
 ##### [Lists#1.3.6.1.4.1.33097.1.0.0](Lists.md)
 ##### [BinaryTrees#1.3.6.1.4.1.33097.1.0.1](BinaryTrees.md)
 ##### [Blocks#1.3.6.1.4.1.33097.1.0.2](Blocks.md)
@@ -36,6 +39,12 @@ This file is in id number space order;
 ##### [Sets#1.3.6.1.4.1.33097.1.0.6](Sets.md)
 ##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](BitSlotBlocks.md)
 
+##### [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](abstract/NodeNetworks.md)
+##### [DirectedNodeNetworks#1.3.6.1.4.1.33097.1.0.13](abstract/DirectedNodeNetworks.md)
+##### [Graphs#1.3.6.1.4.1.33097.1.0.14](abstract/Graphs.md)
+##### [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](abstract/NodeNetworkSets.md)
+##### [DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16](abstract/DirectedAcyclicGraphs.md)
+
 ##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](ZigguratIndices.md)
 
 
@@ -43,6 +52,9 @@ This file is in id number space order;
 ## Concrete Data Structures
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
+
+TODO move stuff to the concrete folder
+like DirectedAdjacencyMatrices, BiDirectionalAdjacencyMatrices
 
 ##### [Arrays#1.3.6.1.4.1.33097.1.1.0](Arrays.md)
 ##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](ArrayLists.md)
@@ -59,15 +71,24 @@ This file is in id number space order;
 ##### [RedBlackBitSlotBlocks#1.3.6.1.4.1.33097.1.1.12](RedBlackBitSlotBlocks.md)
 ##### [SingleBitSlotBlocks#1.3.6.1.4.1.33097.1.1.13](SingleBitSlotBlocks.md)
 
+##### [DirectedAdjacencyMatrices#1.3.6.1.4.1.33097.1.1.20](DirectedAdjacencyMatrices.md)
+##### [BiDirectionalAdjacencyMatrices#1.3.6.1.4.1.33097.1.1.21](BiDirectionalAdjacencyMatrices.md)
+
 ##### [SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100](data_structures/SimpleZigguratDiskStructures.md)
 
 ## Data Structures Aliases
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
 
+TODO move stuff to the abstract/aliases and concrete/aliases folder
 ##### [Chunks#1.3.6.1.4.1.33097.1.2.0](Chunks.md)
 ##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](Dictionaries.md)
 ##### [BitMaps#1.3.6.1.4.1.33097.1.2.2](BitMaps.md)
 ##### [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
 ##### [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
 ##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)
+##### [Vertex#1.3.6.1.4.1.33097.1.2.6](abstract/aliases/Vertex.md)
+
+# Notes
+
+The distinction between abstract and concrete is negligible. I just needed more folders to sort my Markdown files. 
