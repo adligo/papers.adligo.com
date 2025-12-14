@@ -10,15 +10,15 @@
 <br/>
 
 
-BitMaps are a growable depricated alias in the Adligo catalog, which have been replace by [BitSets#1.3.6.1.4.1.33097.1.1.2](BitSets.md) for narrowed taxomony.
+BitMaps are a growable depricated alias in the Adligo catalog, which have been replace by [BitSets#1.3.6.1.4.1.33097.1.1.2](../../BitSets.md) for narrowed taxomony.
 
 ##### Siblings
 
 - [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
-- [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](BitSlotMaps.md)
+- [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](../../BitSlotMaps.md)
 - [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
 - [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)
 
 ##### Aliases 
 
-- [BitSets#1.3.6.1.4.1.33097.1.1.2](BitSets.md)
+- [BitSets#1.3.6.1.4.1.33097.1.1.2](../../BitSets.md)

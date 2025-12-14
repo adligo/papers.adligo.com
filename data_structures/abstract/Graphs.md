@@ -12,6 +12,22 @@
 Graphs are a very broad term that loosely means something with one or more [Nodes#1.3.6.1.4.1.33097.1.0.12.0](NodeNetworks.md#nodes) and zero or more [Edges#1.3.6.1.4.1.33097.1.0.12.0](NodeNetworks.md#edges). 
 
 
+## Issues
+
+### Cycles:
+##### 1.3.6.1.4.1.33097.1.0.14.0
+
+[Cycles#1.3.6.1.4.1.33097.1.0.12.5](NodeNetworks.md#cycles) are a common topic of concern related to Graphs.  They often cause problems like infinite loops when [Exploring#1.3.6.1.4.1.33097.0.0.6](../../algorithms/abstract/Exploration.md) Graphs, which can be avoided via Memoization.  
+
+### NodeNetworkGaps:
+##### 1.3.6.1.4.1.33097.1.0.14.1
+
+
+### See Also
+
+- [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](NodeNetworks.md)
+- [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](NodeNetworkSets.md)
+
 #####
 
 Cool character •

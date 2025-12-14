@@ -3,32 +3,32 @@
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
 <strong>Created:</strong> 2025-11-25<br/>
-<strong>Edited:</strong> 2025-11-29<br/>
+<strong>Edited:</strong> 2025-12-13<br/>
 <strong>Id:</strong> 1.3.6.1.4.1.33097.1.1.3<br/>
 <strong>Copywrite 2025 Adligo Inc</strong>
 </div>
 <br/>
 
-BitSlotMaps a non growable bunch of bits and are identical to [BitVectors#1.3.6.1.4.1.33097.1.1.2](BitVectors.md), however, since they are often used from higher level languages they simply have b bits.  In addition, they are fixed in size at the time of creation.  Additionally they can be converted to unsigned integers and compared to zero to identify when all b bits are equal to zero in O(1) time.  
+BitSlotMaps a non growable bunch of bits and are identical to [BitVectors#1.3.6.1.4.1.33097.1.1.2](abstract/aliases/BitVectors.md), however, since they are often used from higher level languages they simply have b bits.  In addition, they are fixed in size at the time of creation.  Additionally they can be converted to unsigned integers and compared to zero to identify when all b bits are equal to zero in O(1) time.  
 
 ### Associated Algorithms
 
-[BinaryFractialRangeSearch#1.3.6.1.4.1.33097.0.1](../algorithms/BinaryFractalRangeSearch.md)
+[BinaryFractialRangeSearch#1.3.6.1.4.1.33097.0.1](../algorithms/concrete/BinaryFractalRangeSearch.md)
 
 ### Siblings
 
 - [BitSets#1.3.6.1.4.1.33097.1.1.2](BitSets.md)
-- [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
+- [BitStrings#1.3.6.1.4.1.33097.1.2.4](abstract/aliases/BitStrings.md)
 
 ##### Aliases 
 
-- [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
-- [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
-- [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)
+- [BitArrays#1.3.6.1.4.1.33097.1.2.3](abstract/aliases/BitArrays.md)
+- [BitStrings#1.3.6.1.4.1.33097.1.2.4](abstract/aliases/BitStrings.md)
+- [BitVectors#1.3.6.1.4.1.33097.1.2.5](abstract/aliases/BitVectors.md)
 
 ### Notes
 
-I diferentiated from [BitVectors#1.3.6.1.4.1.33097.1.1.2](BitVectors.md) here simply to ensure that they are not growable values after creation.  This is mostly because of the Vector class in the Java language, which is growable and seems to break the Mathmatical [Vector#1.3.6.1.4.1.33097.5.1](../math/Vectors.md) convention of having a end point (or not growing after definition / creation time).  In addition, I wanted to narrow the scope of taxomony, since it looks like there are likely multiple interpretations of the BitVector term as of 2025. 
+I diferentiated from [BitVectors#1.3.6.1.4.1.33097.1.1.2](abstract/aliases/BitVectors.md) here simply to ensure that they are not growable values after creation.  This is mostly because of the Vector class in the Java language, which is growable and seems to break the Mathmatical [Vector#1.3.6.1.4.1.33097.5.1](../math/Vectors.md) convention of having a end point (or not growing after definition / creation time).  In addition, I wanted to narrow the scope of taxomony, since it looks like there are likely multiple interpretations of the BitVector term as of 2025. 
 
 This definition has no correlation with this project, and I'm sorry for the name overlap as they did use the term 'Slot Map' first;
 [https://github.com/orlp/slotmap?tab=readme-ov-file](https://github.com/orlp/slotmap?tab=readme-ov-file)

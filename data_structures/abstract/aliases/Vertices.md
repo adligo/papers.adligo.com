@@ -1,4 +1,4 @@
-# Vertex
+# Vertices
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
@@ -9,13 +9,15 @@
 </div>
 <br/>
 
-A Vertex from Graph Theory is simply a more formal name for a [Node#1.3.6.1.4.1.33097.1.0.12.0](../NodeNetworks.md#1.3.6.1.4.1.33097.1.0.12.0) often used in mathmatics.  We avoid the term as we think ther term [Node#1.3.6.1.4.1.33097.1.0.12.0](../NodeNetworks.md#1.3.6.1.4.1.33097.1.0.12.0) (often depicted with circles) is much clearer.
+A Vertex from Graph Theory is simply a more formal name for a [Node#1.3.6.1.4.1.33097.1.0.12.0](../NodeNetworks.md#nodes) often used in mathmatics.  We avoid the term as we think the term [Node#1.3.6.1.4.1.33097.1.0.12.0](../NodeNetworks.md#nodes) (often depicted with circles) is much clearer.
 
 The fundamental unit of a graph $G=(V, E)$, which is part of the set $V$.
 
 ##### Aliases 
 
 - [Node#1.3.6.1.4.1.33097.1.0.12.0](../NodeNetworks.md#1.3.6.1.4.1.33097.1.0.12.0)
+
+### Notes
 
 ##### Questions Comments:
 - [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)

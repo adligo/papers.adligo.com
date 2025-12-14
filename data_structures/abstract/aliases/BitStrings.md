@@ -9,15 +9,15 @@
 </div>
 <br/>
 
-BitStrings are a non growable depricated alias in the Adligo catalog, which have been replace by [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](BitSlotMaps.md) for narrowed taxomony.
+BitStrings are a non growable depricated alias in the Adligo catalog, which have been replace by [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](../../BitSlotMaps.md) for narrowed taxomony.
 
 ##### Siblings 
 
 - [BitMaps#1.3.6.1.4.1.33097.1.2.2](BitMaps.md)
-- [BitSets#1.3.6.1.4.1.33097.1.1.2](BitSets.md)
+- [BitSets#1.3.6.1.4.1.33097.1.1.2](../../BitSets.md)
 
 ##### Aliases 
 
 - [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
-- [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](BitSlotMaps.md)
+- [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](../../BitSlotMaps.md)
 - [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)

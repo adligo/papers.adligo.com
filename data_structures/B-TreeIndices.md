@@ -26,7 +26,7 @@ O(u) is the space cost of an ArrayList.
 
 ### Associated Algorithms
 
-[BinarySearch#1.3.6.1.4.1.33097.0.0](../algorithms/BinarySearch.md)
+[BinarySearch#1.3.6.1.4.1.33097.0.0](../algorithms/concrete/BinarySearch.md)
 
 ##### Questions Comments:
 - [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)

@@ -10,8 +10,36 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Algorithms
 
-##### [BinarySearch#1.3.6.1.4.1.33097.0.0](algorithms/BinarySearch.md)
-##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.1](algorithms/BinaryFractalRangeSearch.md)
+### Abstract Algorithms
+
+-- TODO Below
+##### [Creation#1.3.6.1.4.1.33097.0.0.0](algorithms/abstract/Creation.md)   
+##### [Walk#1.3.6.1.4.1.33097.0.0.1](algorithms/abstract/Walk.md)  
+##### [Iteration#1.3.6.1.4.1.33097.0.0.2](algorithms/abstract/Iteration.md)
+##### [Search#1.3.6.1.4.1.33097.0.0.3](abstract/Search.md)      
+##### [Selection#1.3.6.1.4.1.33097.0.0.4](algorithms/abstract/Selection.md)  
+##### [Identification#1.3.6.1.4.1.33097.0.0.5](algorithms/abstract/Identification.md)
+##### [Exploration#1.3.6.1.4.1.33097.0.0.6](algorithms/abstract/Exploration.md)
+##### [BreadthFirstSearch#1.3.6.1.4.1.33097.0.0.7](algorithms/abstract/BreadthFirstSearch.md)
+##### [DepthFirstSearch#1.3.6.1.4.1.33097.0.0.8](algorithms/abstract/DepthFirstSearch.md)
+##### [BreadthFirstExploration#1.3.6.1.4.1.33097.0.0.9](algorithms/abstract/BreadthFirstExploration.md)
+##### [TowardDepthExploration#1.3.6.1.4.1.33097.0.0.10](algorithms/abstract/TowardDepthExploration.md)
+##### [UpstreamOriginNodesToLeavesExploration#1.3.6.1.4.1.33097.0.0.11](algorithms/abstract/UpstreamOriginNodesToLeavesExploration.md)
+
+### Concrete Algorithms
+
+##### [LinearSearch#1.3.6.1.4.1.33097.0.2.0](algorithms/concrete/LinearSearch.md)
+##### [BinarySearch#1.3.6.1.4.1.33097.0.2.1](algorithms/concrete/BinarySearch.md)
+##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2](algorithms/concrete/BinaryFractalRangeSearch.md)
+##### [BinaryFractalRangeWalk#1.3.6.1.4.1.33097.0.2.3](algorithms/concrete/BinaryFractalRangeWalk.md)
+
+-- TODO Below
+##### [AdjacencyMatrixWithBooleanArraysCreation#1.3.6.1.4.1.33097.0.2.4](algorithms/concrete/AdjacencyMatrixWithBooleanArraysCreation.md)
+##### [AdjacencyMatrixWithBitSlotMapsCreation#1.3.6.1.4.1.33097.0.2.5](algorithms/concrete/AdjacencyMatrixWithBitSlotMapsCreation.md)
+##### [UpstreamOriginNodesIdentificationWithBooleanArrays#1.3.6.1.4.1.33097.0.2.6](algorithms/concrete/UpstreamOriginNodesIdentificationWithBooleanArrays.md)
+##### [UpstreamOriginNodesIdentificationWithBitSlotMaps#1.3.6.1.4.1.33097.0.2.7](algorithms/concrete/UpstreamOriginNodesIdentificationWithBitSlotMaps.md)
+##### [DirectedNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.8](algorithms/concrete/DirectedNodeNetworkIdentification.md)
+##### [DirectedAcyclicNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.9](algorithms/concrete/DirectedAcyclicNodeNetworkIdentification.md)
 
 ## Architectural Patterns
 
@@ -26,7 +54,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### Extract Load Transform
 ##### The Message Signal Event Pattern
 
-## Data Normalization
+## Data and Normalization
 
 ##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
 ##### [StringNormalization#1.3.6.1.4.1.33097.5.1](data/StringNormalization.md)
@@ -36,7 +64,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [Encoding#1.3.6.1.4.1.33097.5.5](data/Encoding.md)
 ##### [VectorEncoding#1.3.6.1.4.1.33097.5.6](data/VectorEncoding.md)
 ##### [VectorEmbedding#1.3.6.1.4.1.33097.5.7](data/VectorEmbedding.md)
-
+##### [DataSets#1.3.6.1.4.1.33097.5.8](data/DataSets.md)
 
 ## Abstract Data Structures
 
@@ -61,8 +89,22 @@ These are abstract data structures that may have multiple implementations each w
 ##### [Graphs#1.3.6.1.4.1.33097.1.0.14](data_structures/abstract/Graphs.md)
 ##### [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](data_structures/abstract/NodeNetworkSets.md)
 ##### [DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16](data_structures/abstract/DirectedAcyclicGraphs.md)
+##### [Collections#1.3.6.1.4.1.33097.1.0.17](data_structures/abstract/Collections.md)
 
+##### [AdjacencyMaps#1.3.6.1.4.1.33097.1.0.19](data_structures/abstract/AdjacencyMaps.md)
+##### [AdjacencyMatrices#1.3.6.1.4.1.33097.1.0.20](data_structures/abstract/AdjacencyMatrices.md)
+##### [AdjacencyMatrixMaps#1.3.6.1.4.1.33097.1.0.21](data_structures/abstract/AdjacencyMatrixMaps.md)
 ##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](data_structures/ZigguratIndices.md)
+
+## Abstract Data Structures Aliases
+
+##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/abstract/aliases/Chunks.md)
+##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/abstract/aliases/Dictionaries.md)
+##### [BitMaps#1.3.6.1.4.1.33097.1.2.2](data_structures/abstract/aliases/BitMaps.md)
+##### [BitArrays#1.3.6.1.4.1.33097.1.2.3](data_structures/abstract/aliases/BitArrays.md)
+##### [BitStrings#1.3.6.1.4.1.33097.1.2.4](data_structures/abstract/aliases/BitStrings.md)
+##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](data_structures/abstract/aliases/BitVectors.md)
+##### [Vertices#1.3.6.1.4.1.33097.1.2.6](data_structures/abstract/aliases/Vertices.md)
 
 ## Concrete Data Structures
 
@@ -107,8 +149,8 @@ These are abstract data structures that may have multiple implementations each w
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
 
-##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/Chunks.md)
-##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/Dictionaries.md)
+##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/abstract/aliases/Chunks.md)
+##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/abstract/aliases/Dictionaries.md)
 
 ## Software Design Patterns
 

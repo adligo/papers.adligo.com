@@ -1,4 +1,4 @@
-# All Ids
+# All Data Structure Ids
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
@@ -10,7 +10,7 @@
 <br/>
 
 This is simply a reference of all of the number space under data structures (1.3.6.1.4.1.33097.1) to their specific files.  Once in this file a number is mapped to it's name and should NOT be changed!
-This file is the difininitive mapping of ids to names under 1.3.6.1.4.1.33097.1.
+This file is the definitive mapping of ids to names under 1.3.6.1.4.1.33097.1.
 
 This file is in id number space order;
 
@@ -20,7 +20,6 @@ This file is in id number space order;
 [Papers Index](../README.md)
 
 ## Abstract Data Structures
-
 ##### Id: #1.3.6.1.4.1.33097.1.0
 
 TODO move to the abstract folder like Graphs, GraphSets, and DirectedAcyclicGraphs
@@ -44,10 +43,25 @@ TODO move to the abstract folder like Graphs, GraphSets, and DirectedAcyclicGrap
 ##### [Graphs#1.3.6.1.4.1.33097.1.0.14](abstract/Graphs.md)
 ##### [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](abstract/NodeNetworkSets.md)
 ##### [DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16](abstract/DirectedAcyclicGraphs.md)
+##### [Collections#1.3.6.1.4.1.33097.1.0.17](abstract/Collections.md)
+##### [SpanningArborescence#1.3.6.1.4.1.33097.1.0.18](abstract/SpanningArborescence.md)
+##### [AdjacencyMaps#1.3.6.1.4.1.33097.1.0.19](AdjacencyMaps.md)
+##### [AdjacencyMatrices#1.3.6.1.4.1.33097.1.0.20](AdjacencyMatrices.md)
+##### [AdjacencyMatrixMaps#1.3.6.1.4.1.33097.1.0.21](AdjacencyMatrixMaps.md)
 
 ##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](ZigguratIndices.md)
 
+## Abstract Data Structures Aliases
 
+1.3.6.1.4.1.33097.1.2
+
+##### [Chunks#1.3.6.1.4.1.33097.1.2.0](abstract/aliases/Chunks.md)
+##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](abstract/aliases/Dictionaries.md)
+##### [BitMaps#1.3.6.1.4.1.33097.1.2.2](abstract/aliases/BitMaps.md)
+##### [BitArrays#1.3.6.1.4.1.33097.1.2.3](abstract/aliases/BitArrays.md)
+##### [BitStrings#1.3.6.1.4.1.33097.1.2.4](abstract/aliases/BitStrings.md)
+##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](abstract/aliases/BitVectors.md)
+##### [Vertices#1.3.6.1.4.1.33097.1.2.6](abstract/aliases/Vertices.md)
 
 ## Concrete Data Structures
 
@@ -71,23 +85,12 @@ like DirectedAdjacencyMatrices, BiDirectionalAdjacencyMatrices
 ##### [RedBlackBitSlotBlocks#1.3.6.1.4.1.33097.1.1.12](RedBlackBitSlotBlocks.md)
 ##### [SingleBitSlotBlocks#1.3.6.1.4.1.33097.1.1.13](SingleBitSlotBlocks.md)
 
-##### [DirectedAdjacencyMatrices#1.3.6.1.4.1.33097.1.1.20](DirectedAdjacencyMatrices.md)
-##### [BiDirectionalAdjacencyMatrices#1.3.6.1.4.1.33097.1.1.21](BiDirectionalAdjacencyMatrices.md)
+
+
 
 ##### [SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100](data_structures/SimpleZigguratDiskStructures.md)
 
-## Data Structures Aliases
 
-##### Id: #1.3.6.1.4.1.33097.1.2
-
-TODO move stuff to the abstract/aliases and concrete/aliases folder
-##### [Chunks#1.3.6.1.4.1.33097.1.2.0](Chunks.md)
-##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](Dictionaries.md)
-##### [BitMaps#1.3.6.1.4.1.33097.1.2.2](BitMaps.md)
-##### [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
-##### [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
-##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)
-##### [Vertex#1.3.6.1.4.1.33097.1.2.6](abstract/aliases/Vertex.md)
 
 # Notes
 

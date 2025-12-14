@@ -2,7 +2,7 @@
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
 <strong>Created:</strong> 2025-11-25<br/>
-<strong>Edited:</strong> 2025-11-29<br/>
+<strong>Edited:</strong> 2025-12-13<br/>
 <strong>Id:</strong> 1.3.6.1.4.1.33097.1.1.2<br/>
 <strong>Copywrite 2025 Adligo Inc</strong>
 </div>
@@ -12,14 +12,14 @@ BitSets are simply a growable bunch of bits.  This can often be based on a simpl
 
 ##### Siblings
 
-- [BitArrays#1.3.6.1.4.1.33097.1.2.3](BitArrays.md)
+- [BitArrays#1.3.6.1.4.1.33097.1.2.3](abstract/aliases/BitArrays.md)
 - [BitSlotMaps#1.3.6.1.4.1.33097.1.1.2](BitSlotMaps.md)
-- [BitStrings#1.3.6.1.4.1.33097.1.2.4](BitStrings.md)
-- [BitVectors#1.3.6.1.4.1.33097.1.2.5](BitVectors.md)
+- [BitStrings#1.3.6.1.4.1.33097.1.2.4](abstract/aliases/BitStrings.md)
+- [BitVectors#1.3.6.1.4.1.33097.1.2.5](abstract/aliases/BitVectors.md)
 
 ##### Aliases 
 
-- [BitMaps#1.3.6.1.4.1.33097.1.2.2](BitMaps.md)
+- [BitMaps#1.3.6.1.4.1.33097.1.2.2](abstract/aliases/BitMaps.md)
 
 ### Notes
 

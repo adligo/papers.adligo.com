@@ -15,7 +15,7 @@ A simple data structure with a root (at the top) which holds some value and may 
 
 ### Associated Algorithms
 
-- [BinarySearch#1.3.6.1.4.1.33097.0.0](../algorithms/BinarySearch.md)
+- [BinarySearch#1.3.6.1.4.1.33097.0.0](../algorithms/concrete/BinarySearch.md)
 
 
 ##### Questions Comments:
