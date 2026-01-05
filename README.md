@@ -113,6 +113,7 @@ These are abstract data structures that may have multiple implementations each w
 ##### [Arrays#1.3.6.1.4.1.33097.1.1.0](data_structures/Arrays.md)
 ##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](data_structures/ArrayLists.md)
 ##### [BitSets#1.3.6.1.4.1.33097.1.1.2](data_structures/BitSets.md)
+#### BitSlotMaps
 ##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](data_structures/BitSlotMaps.md)
 ##### [B-TreeIndices#1.3.6.1.4.1.33097.1.1.4](data_structures/B-TreeIndices.md)
 ##### [LinkedLists#1.3.6.1.4.1.33097.1.1.5](data_structures/LinkedLists.md)
@@ -196,6 +197,10 @@ If you are looking for a overview of the adligo.org open source Bash, Java, Java
 ## Hosting 
 This site is hosted using GitHub Pages from this git repo;
 [https://github.com/adligo/papers.adligo.com](https://github.com/adligo/papers.adligo.com)
+
+### Notes
+
+This page has duplicates which allow referencing by named anchors i.e. [BitSlotMaps](#bitslotmaps)
 
 © Copyright 2025 Adligo Inc
 

@@ -23,6 +23,10 @@ We use extensions of this number to uniquely identify various papers and their c
   
 ### Programming Languages → #1.3.6.1.4.1.33097.6
 
+### [Adligo's Code Puzzles → #1.3.6.1.4.1.33097.7](https://adligo.github.io/acp.adligo.com/)
+
+### Internal Adligo Stuff 1.3.6.1.4.1.33097.10
+
 [Papers Index](../README.md)
 
 © Copyright 2025 Adligo Inc

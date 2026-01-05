@@ -31,6 +31,12 @@ Also note this formal definition is from undirected [Graphs#1.3.6.1.4.1.33097.1.
 These are simply [Nodes#1.3.6.1.4.1.33097.1.0.12.0](NodeNetworks.md#nodes) which are not referenced by (have [Edges#1.3.6.1.4.1.33097.1.0.12.1](NodeNetworks.md#edges) from) other [Nodes#1.3.6.1.4.1.33097.1.0.12.0](NodeNetworks.md#nodes).
 OriginNodes may have [Edges#1.3.6.1.4.1.33097.1.0.12.1](NodeNetworks.md#edges) (references to) other [Nodes#1.3.6.1.4.1.33097.1.0.12.0](NodeNetworks.md#nodes).
 
+##### Formally
+
+These are the same as the Root(r) of a Spanning Arborescence.  However, I didn't call them roots, as the root of something is usually a unique property.
+
+Must have a unique, designated root ($r$) with in-degree 0.
+
 ## Attributes
 ### Acyclic
 

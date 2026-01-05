@@ -3,13 +3,23 @@
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
 <strong>Created:</strong> 2025-12-12<br/>
-<strong>Edited:</strong> 2025-12-13<br/>
+<strong>Edited:</strong> 2025-12-14<br/>
 <strong>Id:</strong> 1.3.6.1.4.1.33097.1.0.12<br/>
 <strong>Copywrite 2025 Adligo Inc</strong>
 </div>
 <br/>
 
 In the context of data structures, a NodeNetwork is composed of two or more nodes and one or more edges which connect the nodes into a network. Nodes are often depicted by circles, while edges are often represented by (curved) lines or arrows.  This definition may seem synonymous with the term [Graph#1.3.6.1.4.1.33097.1.0.14](Graphs.md), and although a NodeNetwork is always technically a [Graph#1.3.6.1.4.1.33097.1.0.14](Graphs.md) a [Graph#1.3.6.1.4.1.33097.1.0.14](Graphs.md) can also be comprised of one or more NodeNetworks.
+
+## Commentary
+
+NodeNetworks are synonymous with connected graphs only when they are not part of a [NodeNetworkSet#1.3.6.1.4.1.33097.1.0.15](NodeNetworkSets.md).
+
+##### Illustration 1 
+A NodeNetwork that is also a connected Graph
+```
+ a → b → c
+```
 
 ## Components
 ### Nodes:
@@ -18,7 +28,7 @@ In the context of data structures, a NodeNetwork is composed of two or more node
 Also known as a [Vertex#1.3.6.1.4.1.33097.1.2.6](aliases/Vertices.md). A point or entity in a network structure.  Nodes may also have attributes, including edges which reference nodes. 
 
 ##### Formally;
-The fundamental unit of a graph $G=(V, E)$, which is part of the set $V$.
+The fundamental unit of a NodeNetwork $N=(V, E)$, which is part of the set $V$.
 
 #### NodeIds:
 ###### 1.3.6.1.4.1.33097.1.0.12.0.0
@@ -29,6 +39,9 @@ A NodeId is simply some sort of unique identifier which can uniquely identify a 
 ##### 1.3.6.1.4.1.33097.1.0.12.1
 
 An edge is simply a connection between two [Nodes](#nodes).  Edges may also have attributes, including directionality, weight and arbitrary attributes.
+
+##### Formally;
+The fundamental unit of a NodeNetwork $N=(V, E)$, which is part of the set $E$.
 
 #### EdgeIds:
 ###### 1.3.6.1.4.1.33097.1.0.12.1.0
