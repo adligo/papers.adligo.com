@@ -1,9 +1,8 @@
-# MVA (Model View Attendant)
+# Model View Adaptor
 
-<div>
-<strong>Author:</strong> Scott Morgan<br/>
-<strong>Created:</strong> 2026-01-04<br/>
-<strong>Edited:</strong> 2026-01-04<br/>
-<strong>Id:</strong> 1.3.6.1.4.1.33097.3.100<br/>
-<strong>Copywrite 2020-2026 Adligo Inc</strong>
-</div>
+1.3.6.1.4.1.33097.3.94
+
+
+### Citations
+
+[https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93adapter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93adapter)

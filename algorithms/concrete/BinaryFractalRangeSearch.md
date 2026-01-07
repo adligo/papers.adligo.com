@@ -39,3 +39,7 @@ on 2025-12-13.
 [https://www.researchgate.net/profile/Peter-Van-Emde-Boas/publication/221024873_Associative_Storage_Modification_Machines/links/54102b840cf2df04e75b34ce/Associative-Storage-Modification-Machines.pdf](https://www.researchgate.net/profile/Peter-Van-Emde-Boas/publication/221024873_Associative_Storage_Modification_Machines/links/54102b840cf2df04e75b34ce/Associative-Storage-Modification-Machines.pdf)
 
 [https://www.youtube.com/watch?v=hmReJCupbNU&t=3719s](https://www.youtube.com/watch?v=hmReJCupbNU&t=3719s)
+
+[https://www.youtube.com/watch?v=2UM4bEfMzTA](https://www.youtube.com/watch?v=2UM4bEfMzTA)
+
+[https://staff.fnwi.uva.nl/p.vanemdeboas/](https://staff.fnwi.uva.nl/p.vanemdeboas/)

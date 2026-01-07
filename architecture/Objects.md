@@ -19,3 +19,5 @@
 [https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
 [https://dspace.mit.edu/handle/1721.1/14979](https://dspace.mit.edu/handle/1721.1/14979)
+
+[http://katmat.math.uni-bremen.de/acc/acc.pdf](http://katmat.math.uni-bremen.de/acc/acc.pdf)

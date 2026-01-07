@@ -7,3 +7,17 @@
 <strong>Copywrite 2020-2026 Adligo Inc</strong>
 </div>
 
+## Summary
+
+MVC is an old pattern still widely used today.  However, in Adligo systems we have deprecated it and prefer [Model View Attendant (MV@)](MV@.md).
+
+## Forms
+
+### Server Side MVC
+
+### Client Side MVC
+
+
+### Citations
+
+[https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
