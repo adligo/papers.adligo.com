@@ -48,6 +48,40 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [ACID#1.3.6.1.4.1.33097.3.0](architecture/ACID.md)
 ##### [BASE#1.3.6.1.4.1.33097.3.1](architecture/BASE.md)
 
+
+##### [Modeling#1.3.6.1.4.1.33097.3.20](architecture/Modeling.md)
+
+##### [Objects#1.3.6.1.4.1.33097.3.25](architecture/Objects.md)
+##### [Sets#1.3.6.1.4.1.33097.3.26](architecture/Sets.md)
+##### [Classes#1.3.6.1.4.1.33097.3.30](architecture/Classes.md)
+##### [ActiveModeling(aka AM)#1.3.6.1.4.1.33097.3.31](architecture/AM.md)
+##### [PassiveModeling(aka PM)#1.3.6.1.4.1.33097.3.32](architecture/PM.md)
+##### [Interfaces#1.3.6.1.4.1.33097.3.33](architecture/Interfaces.md)
+
+### Concepts Derived from UML and other Sources
+
+##### [UML#1.3.6.1.4.1.33097.3.50](architecture/UML.md)
+##### [AML#1.3.6.1.4.1.33097.3.51](architecture/AML.md)
+
+##### [Association#1.3.6.1.4.1.33097.3.85](architecture/Association.md)
+##### [Generalization#1.3.6.1.4.1.33097.3.86](architecture/Generalization.md)
+##### [Specialization#1.3.6.1.4.1.33097.3.87](architecture/Specialization.md)
+
+### Legacy Systemic Structural Design Patterns
+
+##### [Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94](architecture/MVA.md)
+##### [Matrix Memory Models(aka MMM)#1.3.6.1.4.1.33097.3.95](architecture/MMM.md)
+##### [Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.96](architecture/MVC.md)
+##### [Model View Presenter(aka MVP)#1.3.6.1.4.1.33097.3.97](architecture/MVP.md)
+##### [Model View View Model#1.3.6.1.4.1.33097.3.98](architecture/MVVM.md)
+##### [Supervising Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.99](architecture/MVC.md)
+##### [Model View Attendant (aka MV@)#1.3.6.1.4.1.33097.3.100](architecture/MV@.md)
+  Note MV@ was depricated on 2026-01-10, due to work on [UITs](https://github.com/adligo/uit.ts.adligo.org).
+
+### Recommended Systemic Structural Design Patterns
+
+##### [Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101](architecture/MVP@.md)
+
 ##### Coming Soon ...
 ##### Micro-Services Summary
 ##### Extract Transform Load
