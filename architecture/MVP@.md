@@ -22,7 +22,7 @@ The word View in the MVP@ acronym represents the entire view displayed to the us
 
 #### Browser Applications
 
-In browser applications, tabs are generally displayed in windows which display HTML pages.  Since the
+In browser applications, tabs are generally displayed in windows which display HTML pages.
 
 #### Command line Applications
 
