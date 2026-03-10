@@ -25,6 +25,8 @@ We use extensions of this number to uniquely identify various papers and their c
 
 ### [Adligo's Code Puzzles → #1.3.6.1.4.1.33097.7](https://adligo.github.io/acp.adligo.com/)
 
+### IETF RFCs → #1.3.6.1.4.1.33097.8
+
 ### Internal Adligo Stuff 1.3.6.1.4.1.33097.10
 
 [Papers Index](../README.md)
