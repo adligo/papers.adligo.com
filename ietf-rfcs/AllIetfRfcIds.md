@@ -20,6 +20,14 @@ This file is in id number space order;
 
 [Papers Index](../README.md)
 
+### The IETF Editor
+
+https://author-tools.ietf.org/
+
+### Adligo's RFCs
+
 - [ASBP#1.3.6.1.4.1.33097.8.0](ASBP.md)
 - [Ten64#1.3.6.1.4.1.33097.8.1](Ten64.md)
 - [ESTN#1.3.6.1.4.1.33097.8.2](ESTN.md)
+- [EJCN#1.3.6.1.4.1.33097.8.3](EJCN.md)
+- [EJCNS#1.3.6.1.4.1.33097.8.4](EJCNS.md)

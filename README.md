@@ -225,6 +225,8 @@ In order of importance
 - [ASBP#1.3.6.1.4.1.33097.8.0](ietf-rfcs/ASBP.md)
 - [Ten64#1.3.6.1.4.1.33097.8.1](ietf-rfcs/Ten64.md)
 - [ESTN#1.3.6.1.4.1.33097.8.2](ietf-rfcs/ESTN.md)
+- [EJCN#1.3.6.1.4.1.33097.8.3](ietf-rfcs/EJCN.md)
+- [EJCNS#1.3.6.1.4.1.33097.8.4](ietf-rfcs/EJCNS.md)
 
 ## Citations and IANA Usage
 [IANA_Numbers](iana/IANA_Numbers.md)
