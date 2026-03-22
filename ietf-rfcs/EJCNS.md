@@ -1,4 +1,4 @@
-# Extensible JSON Classification Notation Schemas (ESTNS)
+# Extensible JSON Classification Notation Schemas (EJCNS)
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
