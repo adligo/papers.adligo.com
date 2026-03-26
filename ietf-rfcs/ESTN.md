@@ -12,3 +12,5 @@
 This is just a placeholder for the IANA number.  The actual work lives here;
 
 [https://github.com/adligo/estn.adligo.org](https://github.com/adligo/estn.adligo.org)
+
+[Notations ESTN Discord Channel](https://discord.gg/XQSvNDt7Cp)

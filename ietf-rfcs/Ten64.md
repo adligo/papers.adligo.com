@@ -12,3 +12,5 @@
 This is just a placeholder for the IANA number.  The actual work lives here;
 
 [https://github.com/adligo/ten64.adligo.org](https://github.com/adligo/ten64.adligo.org)
+
+[Encodings-Ten64 Discord Channel](https://discord.gg/2tdHn55Xur)

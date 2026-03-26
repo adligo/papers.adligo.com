@@ -12,3 +12,5 @@
 This is just a placeholder for the IANA number.  The actual work lives here;
 
 [https://github.com/adligo/ejcn_schemas.adligo.org](https://github.com/adligo/ejcn_schemas.adligo.org)
+
+[Notations EJCN Schemas Discord Channel](https://discord.gg/DdJnNufQSV)
