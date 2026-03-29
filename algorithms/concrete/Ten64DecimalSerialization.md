@@ -20,8 +20,10 @@ We use [Ryū](#ryū), I have swapped out n with c to track characters.
 ##### Step 1)
 
 Turn the float, double or BigDecimal into a String.  Count the decimal places, then multiply the decimal part by the number of decimal places to turn the decimal part into a integer.
-- O(n log n)
 
+- O(c log c)
+
+This uses [Ryū](#ryū), I have swapped out n with c to track characters.
 
 ##### Step 2
 
@@ -129,4 +131,5 @@ Loitsch, F. (2010). "Printing floating-point numbers quickly and accurately with
 
 ##### Ryū
 
-Adams, U. (2018). "Ryū: fast float-to-string conversion." Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 270–282. https://doi.org/10.1145/3192366.3192369
+Adams, U. (2018). "Ryū: fast float-to-string conversion." Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 270–282. 
+- [https://doi.org/10.1145/3192366.3192369](https://doi.org/10.1145/3192366.3192369)

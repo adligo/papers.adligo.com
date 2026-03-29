@@ -27,6 +27,8 @@ Where u is the number of bits in the universe (aka. the integer) (i.e. a 32 bit 
 
 - O(s)
 
+Where s represents the sextets.
+
 Loop from right to left for groups of six bits call the right most slot the idx (short for index) starting at 0 (assuming your languages API uses zero based bit assignment).  Use a bit mask of six ones '111111' and do a binary and (aka &) to isolate each sextet.  Then use a switch or case statement to map the little-ending binary to the Ten64 
 alphabet character, and write that character to the buffer/stream/disk file.  Note the little-ending binary is the reverse of the big-ending binary in the Ten64 specification.
 
@@ -58,6 +60,10 @@ for (i = 0; i < 9; i += 6) {
 # De-serialization
 
 De-serialization is essentially the opposite of serialization.  
+
+- O(s)
+
+Where s represents the sextets.
 
 ##### Step 1)
 
