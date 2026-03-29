@@ -32,6 +32,8 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 ##### [BinarySearch#1.3.6.1.4.1.33097.0.2.1](algorithms/concrete/BinarySearch.md)
 ##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2](algorithms/concrete/BinaryFractalRangeSearch.md)
 ##### [BinaryFractalRangeWalk#1.3.6.1.4.1.33097.0.2.3](algorithms/concrete/BinaryFractalRangeWalk.md)
+##### [Ten64IntegerSerialization#1.3.6.1.4.1.33097.0.2.4](algorithms/concrete/Ten64IntegerSerialization.md)
+##### [Ten64DecimalSerialization#1.3.6.1.4.1.33097.0.2.5](algorithms/concrete/Ten64DecimalSerialization.md)
 
 -- TODO Below
 ##### [AdjacencyMatrixWithBooleanArraysCreation#1.3.6.1.4.1.33097.0.2.4](algorithms/concrete/AdjacencyMatrixWithBooleanArraysCreation.md)
