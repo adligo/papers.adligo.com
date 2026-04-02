@@ -1,4 +1,8 @@
-# Ten64 Internet Draft Completed
+---
+layout: cd1
+title: Ten64 v1 Internet Draft Completed
+---
+# Ten64 v1 Internet Draft Completed
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

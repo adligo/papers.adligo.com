@@ -1,3 +1,7 @@
+---
+layout: cd1
+title: All Article IDs
+---
 # All Article IDs
 
 <div>

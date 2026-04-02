@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Adligo Papers
+---
+
 # Adligo Inc Papers
 
 Welcome to the Adligo Inc Papers site, which focuses on algorithms, data structures, architectural and software design patterns, algorithms, data normalization techniques and programming styles as defined by Adligo Inc.
