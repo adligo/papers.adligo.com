@@ -12,6 +12,9 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ### Abstract Algorithms
 
+<details>
+  <summary>Abstract Algorithm Details</summary>
+
 -- TODO Below
 ##### [Creation#1.3.6.1.4.1.33097.0.0.0](algorithms/abstract/Creation.md)   
 ##### [Walk#1.3.6.1.4.1.33097.0.0.1](algorithms/abstract/Walk.md)  
@@ -26,8 +29,17 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 ##### [TowardDepthExploration#1.3.6.1.4.1.33097.0.0.10](algorithms/abstract/TowardDepthExploration.md)
 ##### [UpstreamOriginNodesToLeavesExploration#1.3.6.1.4.1.33097.0.0.11](algorithms/abstract/UpstreamOriginNodesToLeavesExploration.md)
 
+</details>
+
+### Articles
+
+##### [2026-04-01 Ten64 v1](./articles/Ten64v1.md)
+
 ### Concrete Algorithms
 
+<details>
+  <summary>Concrete Algorithm Details</summary>
+  
 ##### [LinearSearch#1.3.6.1.4.1.33097.0.2.0](algorithms/concrete/LinearSearch.md)
 ##### [BinarySearch#1.3.6.1.4.1.33097.0.2.1](algorithms/concrete/BinarySearch.md)
 ##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2](algorithms/concrete/BinaryFractalRangeSearch.md)
@@ -43,8 +55,13 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 ##### [DirectedNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.8](algorithms/concrete/DirectedNodeNetworkIdentification.md)
 ##### [DirectedAcyclicNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.9](algorithms/concrete/DirectedAcyclicNodeNetworkIdentification.md)
 
+</details>
+
 ## Architectural Patterns
 
+<details>
+  <summary>Architectural Patterns</summary>
+  
 These are patterns that involve the interaction of multiple systems / programs.
 
 ##### [ACID#1.3.6.1.4.1.33097.3.0](architecture/ACID.md)
@@ -60,8 +77,14 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [PassiveModeling(aka PM)#1.3.6.1.4.1.33097.3.32](architecture/PM.md)
 ##### [Interfaces#1.3.6.1.4.1.33097.3.33](architecture/Interfaces.md)
 
+
+</details>
+
 ### Concepts Derived from UML and other Sources
 
+<details>
+  <summary>Architectural Patterns</summary>
+  
 ##### [UML#1.3.6.1.4.1.33097.3.50](architecture/UML.md)
 ##### [AML#1.3.6.1.4.1.33097.3.51](architecture/AML.md)
 
@@ -69,7 +92,12 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [Generalization#1.3.6.1.4.1.33097.3.86](architecture/Generalization.md)
 ##### [Specialization#1.3.6.1.4.1.33097.3.87](architecture/Specialization.md)
 
-### Legacy Systemic Structural Design Patterns
+</details>
+
+### Legacy System Structural Design Patterns
+
+<details>
+  <summary>Legacy System Structural Design Pattern Details</summary>
 
 ##### [Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94](architecture/MVA.md)
 ##### [Matrix Memory Models(aka MMM)#1.3.6.1.4.1.33097.3.95](architecture/MMM.md)
@@ -80,8 +108,13 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [Model View Attendant (aka MV@)#1.3.6.1.4.1.33097.3.100](architecture/MV@.md)
   Note MV@ was depricated on 2026-01-10, due to work on [UITs](https://github.com/adligo/uit.ts.adligo.org).
 
-### Recommended Systemic Structural Design Patterns
+</details>
 
+### Recommended System Structural Design Patterns
+
+<details>
+  <summary>Recommended System Structural Design Pattern Details</summary>
+  
 ##### [Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101](architecture/MVP@.md)
 
 ##### Coming Soon ...
@@ -90,7 +123,12 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### Extract Load Transform
 ##### The Message Signal Event Pattern
 
+</details>
+
 ## Data and Normalization
+
+<details>
+  <summary>Data and Normalization Details</summary>
 
 ##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
 ##### [StringNormalization#1.3.6.1.4.1.33097.5.1](data/StringNormalization.md)
@@ -102,7 +140,12 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### [VectorEmbedding#1.3.6.1.4.1.33097.5.7](data/VectorEmbedding.md)
 ##### [DataSets#1.3.6.1.4.1.33097.5.8](data/DataSets.md)
 
+</details>
+
 ## Abstract Data Structures
+
+<details>
+  <summary>Abstract Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.0
 These are abstract data structures that may have multiple implementations each with specific concrete implementation details.
@@ -132,7 +175,12 @@ These are abstract data structures that may have multiple implementations each w
 ##### [AdjacencyMatrixMaps#1.3.6.1.4.1.33097.1.0.21](data_structures/abstract/AdjacencyMatrixMaps.md)
 ##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](data_structures/ZigguratIndices.md)
 
+</details>
+
 ## Abstract Data Structures Aliases
+
+<details>
+  <summary>Abstract Data Structures Alias Details</summary>
 
 ##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/abstract/aliases/Chunks.md)
 ##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/abstract/aliases/Dictionaries.md)
@@ -142,7 +190,12 @@ These are abstract data structures that may have multiple implementations each w
 ##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](data_structures/abstract/aliases/BitVectors.md)
 ##### [Vertices#1.3.6.1.4.1.33097.1.2.6](data_structures/abstract/aliases/Vertices.md)
 
+</details>
+
 ## Concrete Data Structures
+
+<details>
+  <summary>Concrete Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
 
@@ -166,6 +219,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ##### [SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100](data_structures/SimpleZigguratDiskStructures.md)
 
+
 ##### Coming Soon ...
 ##### ArrayBitBlocks
 ##### 2D Ziggurat Disk Structures
@@ -182,14 +236,24 @@ These are abstract data structures that may have multiple implementations each w
 ##### Simple Ziggurat RAM Structures 
 ##### SingleEntryBitBlocks
 
+</details>
+
 ## Data Structures Aliases
+
+<details>
+  <summary>Data Structures Alias Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
 
 ##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/abstract/aliases/Chunks.md)
 ##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](data_structures/abstract/aliases/Dictionaries.md)
 
+</details>
+
 ## Software Design Patterns
+
+<details>
+  <summary>Software Design Pattern Details</summary>
 
 These are patterns that occur inside of a single system / program.
 
@@ -210,8 +274,13 @@ In order of importance
 ##### Model View Attendant (MVA)
 ##### Matrix Memory Modeling (3M)
 
+</details>
+
 ## Programming Styles 
 
+<details>
+  <summary>Programming Style Details</summary>
+  
 ##### Coming Soon ...
 ##### Summary of Programming Styles
 ##### The Declarative Style
@@ -222,13 +291,20 @@ In order of importance
 ##### The Imperative Style
 ##### The Functional Class Orientated Style (FCO)
 
-## IETF RFCs
+</details>
 
-- [ASBP#1.3.6.1.4.1.33097.8.0](ietf-rfcs/ASBP.md)
-- [Ten64#1.3.6.1.4.1.33097.8.1](ietf-rfcs/Ten64.md)
-- [ESTN#1.3.6.1.4.1.33097.8.2](ietf-rfcs/ESTN.md)
-- [EJCN#1.3.6.1.4.1.33097.8.3](ietf-rfcs/EJCN.md)
-- [EJCNS#1.3.6.1.4.1.33097.8.4](ietf-rfcs/EJCNS.md)
+## IETF Internet Drafts [I-Ds]
+
+<details>
+  <summary>IETF Internet Draft [I-D] Details</summary>
+
+- [ASBP#1.3.6.1.4.1.33097.8.0](ietf-drafts/ASBP.md)
+- [Ten64#1.3.6.1.4.1.33097.8.1](ietf-drafts/Ten64.md)
+- [ESTN#1.3.6.1.4.1.33097.8.2](ietf-drafts/ESTN.md)
+- [EJCN#1.3.6.1.4.1.33097.8.3](ietf-drafts/EJCN.md)
+- [EJCNS#1.3.6.1.4.1.33097.8.4](ietf-drafts/EJCNS.md)
+
+</details>
 
 ## Citations and IANA Usage
 [IANA_Numbers](iana/IANA_Numbers.md)
@@ -236,6 +312,7 @@ In order of importance
 ## Adligo.org Overview
 
 If you are looking for a overview of the adligo.org open source Bash, Java, Javascript and Typescript suites go here;
+
 [https://adligo.github.io/overview.adligo.org/](https://adligo.github.io/overview.adligo.org/)
 
 ## Hosting 
