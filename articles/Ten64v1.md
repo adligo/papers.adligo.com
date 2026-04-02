@@ -22,11 +22,11 @@ This is a very different pattern of work than we use in the corporate and not fo
 
 The Adligo Protocols Discord Channel
 
-https://discord.gg/GkNNRTt7Ap
+[https://discord.gg/GkNNRTt7Ap](https://discord.gg/GkNNRTt7Ap)
 
 The Ten64 Discord Channel
 
-https://discord.gg/2tdHn55Xur
+[https://discord.gg/2tdHn55Xur](https://discord.gg/2tdHn55Xur)
 
 ##### Questions Comments:
 [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
