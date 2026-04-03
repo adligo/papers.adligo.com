@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: All Data Structure Ids
+---
+
 # All Data Structure Ids
 
 <div>

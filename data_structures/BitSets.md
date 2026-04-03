@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: BitSets
+---
+
 # BitSets
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

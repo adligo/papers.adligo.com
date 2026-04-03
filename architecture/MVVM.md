@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MVVM (Model View View Model)
+---
+
 # MVVM (Model View View Model)
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Heaps
+---
+
 # Heaps
 
 <div>

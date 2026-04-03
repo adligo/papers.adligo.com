@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: AssociativeArrays
+---
+
 # AssociativeArrays
 
 <div>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: All Software Programming Style Ids
+---
+
 # All Software Programming Style Ids
 
 <div>

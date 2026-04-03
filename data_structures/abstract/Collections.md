@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Collections
+---
+
 # Collections
 
 <div>

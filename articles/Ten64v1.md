@@ -36,5 +36,3 @@ The Ten64 Discord Channel
 [papers.adligo.com/issues](https://github.com/adligo/papers.adligo.com/issues)
 
 [Papers Index](../README.md)
-
-### Citations

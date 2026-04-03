@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Ten64 Decimal Serialization
+---
+
 # Ten64 Decimal Serialization
 
 <div>

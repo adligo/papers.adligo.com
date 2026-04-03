@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Classes (aka Types, Super-Sets)
+---
+
 # Classes (aka Types, Super-Sets)
 
 <div>

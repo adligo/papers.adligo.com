@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Adligo Markup Language
+---
+
 # Adligo Markup Language
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

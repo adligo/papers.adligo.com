@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Inheritance 
+---
+
 # Inheritance 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

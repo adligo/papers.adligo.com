@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: UML (Unified Modeling Language)
+---
+
 # UML (Unified Modeling Language)
 
 <div>

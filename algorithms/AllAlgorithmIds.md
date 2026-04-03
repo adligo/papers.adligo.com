@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: All Algorithm Ids
+---
+
 # All Algorithm Ids
 
 <div>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MVC (Model View Controller)
+---
+
 # MVC (Model View Controller)
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

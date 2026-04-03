@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Tabular Normal Forms
+---
+
 # Tabular Normal Forms
 
 <div>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Imperative
+---
+
 
 ### Imperative (aka 3G)
 <div>

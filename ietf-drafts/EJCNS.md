@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Extensible JSON Classification Notation Schemas (EJCNS)
+---
+
 # Extensible JSON Classification Notation Schemas (EJCNS)
 
 <div>

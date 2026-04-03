@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Sharable Aggregation 
+---
+
 # Sharable Aggregation 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

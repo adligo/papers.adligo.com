@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Extensible JSON Classification Notation (EJCN)
+---
+
 # Extensible JSON Classification Notation (EJCN)
 
 <div>

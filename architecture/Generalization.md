@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Generalization
+---
+
 # Generalization
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: LinkedList
+---
+
 # LinkedList
 
 ##### Id: 1.3.6.1.4.1.33097.1.1.5

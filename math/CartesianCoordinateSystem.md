@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Cartesian Coordinate System
+---
+
 # Cartesian Coordinate System
 
 <div>

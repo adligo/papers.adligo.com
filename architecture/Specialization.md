@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Specialization
+---
+
 # Specialization
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

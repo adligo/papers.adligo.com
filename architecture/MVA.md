@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Model View Adaptor
+---
+
 # Model View Adaptor
 
 1.3.6.1.4.1.33097.3.94

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Philosophical Programming Style
+---
+
 # Philosophical Programming Style
 
 <div>

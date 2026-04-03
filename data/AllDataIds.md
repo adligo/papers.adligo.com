@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Data
+---
+
 # Data
 
 This file contains the id's listed in numerical order for this data folder.

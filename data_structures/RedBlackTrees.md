@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: RedBlackTrees.md
+---
+
 # RedBlackTrees.md
 
 1.3.6.1.4.1.33097.1.1.11

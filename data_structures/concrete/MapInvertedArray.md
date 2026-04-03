@@ -1,1 +1,6 @@
+---
+layout: cd1
+title: MapInvertedArray
+---
+
 A Map that behaves like an array where the array values are keys and the indexes of the array are values.  Useful in Code Puzzles. 

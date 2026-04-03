@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MMM (Matrix Memory Modeling) [aka 3M]
+---
+
 # MMM (Matrix Memory Modeling) [aka 3M]
 
 <div>

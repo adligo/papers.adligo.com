@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MV@ (Model View Attendant)
+---
+
 # MV@ (Model View Attendant)
 
 <div>

@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: The Assembler Style
+---
+
 # The Assembler Style
 
 <div>

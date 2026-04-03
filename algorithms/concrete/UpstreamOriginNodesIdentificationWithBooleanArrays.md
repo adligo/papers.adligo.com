@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: UpstreamOriginNodesIdentificationWithBooleanArrays
+---
+
 # UpstreamOriginNodesIdentificationWithBooleanArrays
 
 1.3.6.1.4.1.33097.0.2.6

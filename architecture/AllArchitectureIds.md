@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: All Architecture Ids
+---
+
 # All Architecture Ids
 
 <div>

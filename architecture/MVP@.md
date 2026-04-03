@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MVP@ (Model View Presenter Attendant)
+---
+
 # MVP@ (Model View Presenter Attendant)
 
 <div>

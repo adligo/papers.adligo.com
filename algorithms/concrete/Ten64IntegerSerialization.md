@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Ten64 Integer Serialization
+---
+
 # Ten64 Integer Serialization
 
 <div>

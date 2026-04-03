@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Ten 64 (Text Encoded Numbers)
+---
+
 # Ten 64 (Text Encoded Numbers)
 
 <div>

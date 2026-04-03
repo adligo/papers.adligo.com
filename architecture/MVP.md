@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: MVP (Model View Presenter)
+---
+
 # MVP (Model View Presenter)
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

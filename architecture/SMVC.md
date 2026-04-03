@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: SMVC (Supervising Model View Controller)
+---
+
 # SMVC (Supervising Model View Controller)
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

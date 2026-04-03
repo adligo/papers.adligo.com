@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Association
+---
+
 # Association
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

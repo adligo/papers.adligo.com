@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: Composition
+---
+
 # Composition
 <div>
 <strong>Author:</strong> Scott Morgan<br/>

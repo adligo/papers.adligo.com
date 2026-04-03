@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: The Machine Style (aka G1)
+---
+
 # The Machine Style (aka G1)
 
 # The Physical Programming Style

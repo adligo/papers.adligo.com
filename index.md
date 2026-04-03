@@ -1,6 +1,6 @@
 ---
 layout: cd1
-title: Adligo Papers
+title: Adligo Inc Papers
 ---
 
 # Adligo Inc Papers
@@ -17,15 +17,15 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ### Abstract Algorithms
 
-<details>
+<details markdown="1">
   <summary>Abstract Algorithm Details</summary>
 
 -- TODO Below
-##### [Creation#1.3.6.1.4.1.33097.0.0.0](algorithms/abstract/Creation.md)   
-##### [Walk#1.3.6.1.4.1.33097.0.0.1](algorithms/abstract/Walk.md)  
+##### [Creation#1.3.6.1.4.1.33097.0.0.0](algorithms/abstract/Creation.md)
+##### [Walk#1.3.6.1.4.1.33097.0.0.1](algorithms/abstract/Walk.md)
 ##### [Iteration#1.3.6.1.4.1.33097.0.0.2](algorithms/abstract/Iteration.md)
-##### [Search#1.3.6.1.4.1.33097.0.0.3](abstract/Search.md)      
-##### [Selection#1.3.6.1.4.1.33097.0.0.4](algorithms/abstract/Selection.md)  
+##### [Search#1.3.6.1.4.1.33097.0.0.3](abstract/Search.md)
+##### [Selection#1.3.6.1.4.1.33097.0.0.4](algorithms/abstract/Selection.md)
 ##### [Identification#1.3.6.1.4.1.33097.0.0.5](algorithms/abstract/Identification.md)
 ##### [Exploration#1.3.6.1.4.1.33097.0.0.6](algorithms/abstract/Exploration.md)
 ##### [BreadthFirstSearch#1.3.6.1.4.1.33097.0.0.7](algorithms/abstract/BreadthFirstSearch.md)
@@ -42,9 +42,9 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ### Concrete Algorithms
 
-<details>
+<details markdown="1">
   <summary>Concrete Algorithm Details</summary>
-  
+
 ##### [LinearSearch#1.3.6.1.4.1.33097.0.2.0](algorithms/concrete/LinearSearch.md)
 ##### [BinarySearch#1.3.6.1.4.1.33097.0.2.1](algorithms/concrete/BinarySearch.md)
 ##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2](algorithms/concrete/BinaryFractalRangeSearch.md)
@@ -64,9 +64,9 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Architectural Patterns
 
-<details>
+<details markdown="1">
   <summary>Architectural Patterns</summary>
-  
+
 These are patterns that involve the interaction of multiple systems / programs.
 
 ##### [ACID#1.3.6.1.4.1.33097.3.0](architecture/ACID.md)
@@ -87,9 +87,9 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Concepts Derived from UML and other Sources
 
-<details>
+<details markdown="1">
   <summary>Architectural Patterns</summary>
-  
+
 ##### [UML#1.3.6.1.4.1.33097.3.50](architecture/UML.md)
 ##### [AML#1.3.6.1.4.1.33097.3.51](architecture/AML.md)
 
@@ -101,7 +101,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Legacy System Structural Design Patterns
 
-<details>
+<details markdown="1">
   <summary>Legacy System Structural Design Pattern Details</summary>
 
 ##### [Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94](architecture/MVA.md)
@@ -117,9 +117,9 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Recommended System Structural Design Patterns
 
-<details>
+<details markdown="1">
   <summary>Recommended System Structural Design Pattern Details</summary>
-  
+
 ##### [Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101](architecture/MVP@.md)
 
 ##### Coming Soon ...
@@ -132,7 +132,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Data and Normalization
 
-<details>
+<details markdown="1">
   <summary>Data and Normalization Details</summary>
 
 ##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](data/RelationalNormalForms.md)
@@ -149,7 +149,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Abstract Data Structures
 
-<details>
+<details markdown="1">
   <summary>Abstract Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.0
@@ -184,7 +184,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Abstract Data Structures Aliases
 
-<details>
+<details markdown="1">
   <summary>Abstract Data Structures Alias Details</summary>
 
 ##### [Chunks#1.3.6.1.4.1.33097.1.2.0](data_structures/abstract/aliases/Chunks.md)
@@ -199,7 +199,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Concrete Data Structures
 
-<details>
+<details markdown="1">
   <summary>Concrete Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
@@ -238,14 +238,14 @@ These are abstract data structures that may have multiple implementations each w
 ##### N-Dimensional Ziggurat Disk Structures
 ##### N-Dimensional Ziggurat RAM Structures
 ##### RedBlackBitBlocks
-##### Simple Ziggurat RAM Structures 
+##### Simple Ziggurat RAM Structures
 ##### SingleEntryBitBlocks
 
 </details>
 
 ## Data Structures Aliases
 
-<details>
+<details markdown="1">
   <summary>Data Structures Alias Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
@@ -257,7 +257,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Software Design Patterns
 
-<details>
+<details markdown="1">
   <summary>Software Design Pattern Details</summary>
 
 These are patterns that occur inside of a single system / program.
@@ -268,7 +268,7 @@ In order of importance
 ##### Sharable Aggregation
 ##### Encapsulation
 ##### Composition
-##### Inheritance 
+##### Inheritance
 ##### Context Objects
 ##### Polymorphism
 ##### The Adapter Pattern
@@ -281,11 +281,11 @@ In order of importance
 
 </details>
 
-## Programming Styles 
+## Programming Styles
 
-<details>
+<details markdown="1">
   <summary>Programming Style Details</summary>
-  
+
 ##### Coming Soon ...
 ##### Summary of Programming Styles
 ##### The Declarative Style
@@ -300,7 +300,7 @@ In order of importance
 
 ## IETF Internet Drafts [I-Ds]
 
-<details>
+<details markdown="1">
   <summary>IETF Internet Draft [I-D] Details</summary>
 
 - [ASBP#1.3.6.1.4.1.33097.8.0](ietf-drafts/ASBP.md)
@@ -320,7 +320,7 @@ If you are looking for a overview of the adligo.org open source Bash, Java, Java
 
 [https://adligo.github.io/overview.adligo.org/](https://adligo.github.io/overview.adligo.org/)
 
-## Hosting 
+## Hosting
 This site is hosted using GitHub Pages from this git repo;
 [https://github.com/adligo/papers.adligo.com](https://github.com/adligo/papers.adligo.com)
 
@@ -329,6 +329,3 @@ This site is hosted using GitHub Pages from this git repo;
 This page has duplicates which allow referencing by named anchors i.e. [BitSlotMaps](#bitslotmaps)
 
 © Copyright 2025 Adligo Inc
-
-
-

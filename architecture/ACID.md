@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: ACID (Atomicity, Consistency, Isolation, Durability)
+---
+
 # ACID (Atomicity, Consistency, Isolation, Durability)
 
 <div>

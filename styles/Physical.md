@@ -1,3 +1,8 @@
+---
+layout: cd1
+title: The Physical Programming Style
+---
+
 # The Physical Programming Style
 
 <div>
