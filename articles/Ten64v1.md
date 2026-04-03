@@ -18,7 +18,7 @@ On Wednesday, March 1st, 2026, I submitted the Ten64 Internet Draft to the ITEF.
 - [Ten64 HTML](https://www.ietf.org/archive/id/draft-morgan-ten64-00.html)
 - [Ten64 various formats](https://datatracker.ietf.org/doc/draft-morgan-ten64/)
 
-As part of my drafting process, I asked Robert Ismo a local Svelte WASM enthusiast to read and comment on the text and be as harsh as possible.  Several interesting discussions occurred because of this.  One topic in particular is;
+As part of my drafting process, I asked <a href="https://www.linkedin.com/in/robertismo/" >Robert Ismo</a> a local Svelte WASM enthusiast to read and comment on the text and be as harsh as possible.  Several interesting discussions occurred because of this.  One topic in particular is;
 
 How we may change using the IETF going forward with all of the AI tools available to us.  Although historically we have implemented code for our Internet Drafts and then sought adoption of the tool as a standard before requesting the elevated status to get to the RFC state.  Should we perhaps change the order that we do this, because we can use AI to generate code based on the Internet Drafts?
 
