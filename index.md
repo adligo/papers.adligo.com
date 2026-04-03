@@ -17,7 +17,7 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ### Abstract Algorithms
 
-<details markdown="1" id="abstract-algorithms-details">
+<details markdown="block" id="abstract-algorithms-details">
   <summary>Abstract Algorithm Details</summary>
 
 -- TODO Below
@@ -42,7 +42,7 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ### Concrete Algorithms
 
-<details markdown="1" id="concrete-algorithms-details">
+<details markdown="block" id="concrete-algorithms-details">
   <summary>Concrete Algorithm Details</summary>
 
 ##### [LinearSearch#1.3.6.1.4.1.33097.0.2.0](./algorithms/concrete/LinearSearch.md)
@@ -64,7 +64,7 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 ## Architectural Patterns
 
-<details markdown="1" id="architectural-patterns-details">
+<details markdown="block" id="architectural-patterns-details">
   <summary>Architectural Patterns</summary>
 
 These are patterns that involve the interaction of multiple systems / programs.
@@ -87,7 +87,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Concepts Derived from UML and Other Sources
 
-<details markdown="1" id="uml-details">
+<details markdown="block" id="uml-details">
   <summary>Concepts Derived from UML and Other Sources Details</summary>
 
 ##### [UML#1.3.6.1.4.1.33097.3.50](./architecture/UML.md)
@@ -101,7 +101,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Legacy System Structural Design Patterns
 
-<details markdown="1" id="legacy-system-details">
+<details markdown="block" id="legacy-system-details">
   <summary>Legacy System Structural Design Pattern Details</summary>
 
 ##### [Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94](./architecture/MVA.md)
@@ -117,7 +117,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ### Recommended System Structural Design Patterns
 
-<details markdown="1" id="recommended-system-details">
+<details markdown="block" id="recommended-system-details">
   <summary>Recommended System Structural Design Pattern Details</summary>
 
 ##### [Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101](./architecture/MVP@.md)
@@ -132,7 +132,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Data and Normalization
 
-<details markdown="1" id="data-details">
+<details markdown="block" id="data-details">
   <summary>Data and Normalization Details</summary>
 
 ##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](./data/RelationalNormalForms.md)
@@ -149,7 +149,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 
 ## Abstract Data Structures
 
-<details markdown="1" id="abstract-data-details">
+<details markdown="block" id="abstract-data-details">
   <summary>Abstract Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.0
@@ -184,7 +184,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Abstract Data Structures Aliases
 
-<details markdown="1" id="abstract-data-aliases-details">
+<details markdown="block" id="abstract-data-aliases-details">
   <summary>Abstract Data Structures Alias Details</summary>
 
 ##### [Chunks#1.3.6.1.4.1.33097.1.2.0](./data_structures/abstract/aliases/Chunks.md)
@@ -199,7 +199,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Concrete Data Structures
 
-<details markdown="1" id="concrete-data-structures-details">
+<details markdown="block" id="concrete-data-structures-details">
   <summary>Concrete Data Structure Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
@@ -245,7 +245,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Data Structures Aliases
 
-<details markdown="1" id="data-structures-aliases-details">
+<details markdown="block" id="data-structures-aliases-details">
   <summary>Data Structures Alias Details</summary>
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
@@ -257,7 +257,7 @@ These are abstract data structures that may have multiple implementations each w
 
 ## Software Design Patterns
 
-<details markdown="1" id="software-design-patterns-details">
+<details markdown="block" id="software-design-patterns-details">
   <summary>Software Design Pattern Details</summary>
 
 These are patterns that occur inside of a single system / program.
@@ -283,7 +283,7 @@ In order of importance
 
 ## Programming Styles
 
-<details markdown="1" id="programming-style-details-details">
+<details markdown="block" id="programming-style-details-details">
   <summary>Programming Style Details</summary>
 
 ##### Coming Soon ...
@@ -300,7 +300,7 @@ In order of importance
 
 ## IETF Internet Drafts [I-Ds]
 
-<details markdown="1" id="ietf-details">
+<details markdown="block" id="ietf-details">
   <summary>IETF Internet Draft [I-D] Details</summary>
 
 ##### [ASBP#1.3.6.1.4.1.33097.8.0](./ietf-drafts/ASBP.md)
