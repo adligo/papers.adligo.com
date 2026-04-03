@@ -21,18 +21,18 @@ This is a place to store academic and non-academic papers mostly in markdown fil
   <summary>Abstract Algorithm Details</summary>
 
 -- TODO Below
-##### [Creation#1.3.6.1.4.1.33097.0.0.0](./algorithms/abstract/Creation.md)
-##### [Walk#1.3.6.1.4.1.33097.0.0.1](./algorithms/abstract/Walk.md)
-##### [Iteration#1.3.6.1.4.1.33097.0.0.2](./algorithms/abstract/Iteration.md)
-##### [Search#1.3.6.1.4.1.33097.0.0.3](./algorithms/abstract/Search.md)
-##### [Selection#1.3.6.1.4.1.33097.0.0.4](./algorithms/abstract/Selection.md)
-##### [Identification#1.3.6.1.4.1.33097.0.0.5](./algorithms/abstract/Identification.md)
-##### [Exploration#1.3.6.1.4.1.33097.0.0.6](./algorithms/abstract/Exploration.md)
-##### [BreadthFirstSearch#1.3.6.1.4.1.33097.0.0.7](./algorithms/abstract/BreadthFirstSearch.md)
-##### [DepthFirstSearch#1.3.6.1.4.1.33097.0.0.8](./algorithms/abstract/DepthFirstSearch.md)
-##### [BreadthFirstExploration#1.3.6.1.4.1.33097.0.0.9](./algorithms/abstract/BreadthFirstExploration.md)
-##### [TowardDepthExploration#1.3.6.1.4.1.33097.0.0.10](./algorithms/abstract/TowardDepthExploration.md)
-##### [UpstreamOriginNodesToLeavesExploration#1.3.6.1.4.1.33097.0.0.11](./algorithms/abstract/UpstreamOriginNodesToLeavesExploration.md)
+<h5><a href="./algorithms/abstract/Creation">Creation#1.3.6.1.4.1.33097.0.0.0</a></h5>
+<h5><a href="./algorithms/abstract/Walk">Walk#1.3.6.1.4.1.33097.0.0.1</a></h5>
+<h5><a href="./algorithms/abstract/Iteration">Iteration#1.3.6.1.4.1.33097.0.0.2</a></h5>
+<h5><a href="./algorithms/abstract/Search">Search#1.3.6.1.4.1.33097.0.0.3</a></h5>
+<h5><a href="./algorithms/abstract/Selection">Selection#1.3.6.1.4.1.33097.0.0.4</a></h5>
+<h5><a href="./algorithms/abstract/Identification">Identification#1.3.6.1.4.1.33097.0.0.5</a></h5>
+<h5><a href="./algorithms/abstract/Exploration">Exploration#1.3.6.1.4.1.33097.0.0.6</a></h5>
+<h5><a href="./algorithms/abstract/BreadthFirstSearch">BreadthFirstSearch#1.3.6.1.4.1.33097.0.0.7</a></h5>
+<h5><a href="./algorithms/abstract/DepthFirstSearch">DepthFirstSearch#1.3.6.1.4.1.33097.0.0.8</a></h5>
+<h5><a href="./algorithms/abstract/BreadthFirstExploration">BreadthFirstExploration#1.3.6.1.4.1.33097.0.0.9</a></h5>
+<h5><a href="./algorithms/abstract/TowardDepthExploration">TowardDepthExploration#1.3.6.1.4.1.33097.0.0.10</a></h5>
+<h5><a href="./algorithms/abstract/UpstreamOriginNodesToLeavesExploration">UpstreamOriginNodesToLeavesExploration#1.3.6.1.4.1.33097.0.0.11</a></h5>
 
 </details>
 
@@ -45,20 +45,20 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 <details markdown="block" id="concrete-algorithms-details">
   <summary>Concrete Algorithm Details</summary>
 
-##### [LinearSearch#1.3.6.1.4.1.33097.0.2.0](./algorithms/concrete/LinearSearch.md)
-##### [BinarySearch#1.3.6.1.4.1.33097.0.2.1](./algorithms/concrete/BinarySearch.md)
-##### [BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2](./algorithms/concrete/BinaryFractalRangeSearch.md)
-##### [BinaryFractalRangeWalk#1.3.6.1.4.1.33097.0.2.3](./algorithms/concrete/BinaryFractalRangeWalk.md)
-##### [Ten64IntegerSerialization#1.3.6.1.4.1.33097.0.2.4](./algorithms/concrete/Ten64IntegerSerialization.md)
-##### [Ten64DecimalSerialization#1.3.6.1.4.1.33097.0.2.5](./algorithms/concrete/Ten64DecimalSerialization.md)
+<h5><a href="./algorithms/concrete/LinearSearch">LinearSearch#1.3.6.1.4.1.33097.0.2.0</a></h5>
+<h5><a href="./algorithms/concrete/BinarySearch">BinarySearch#1.3.6.1.4.1.33097.0.2.1</a></h5>
+<h5><a href="./algorithms/concrete/BinaryFractalRangeSearch">BinaryFractalRangeSearch#1.3.6.1.4.1.33097.0.2.2</a></h5>
+<h5><a href="./algorithms/concrete/BinaryFractalRangeWalk">BinaryFractalRangeWalk#1.3.6.1.4.1.33097.0.2.3</a></h5>
+<h5><a href="./algorithms/concrete/Ten64IntegerSerialization">Ten64IntegerSerialization#1.3.6.1.4.1.33097.0.2.4</a></h5>
+<h5><a href="./algorithms/concrete/Ten64DecimalSerialization">Ten64DecimalSerialization#1.3.6.1.4.1.33097.0.2.5</a></h5>
 
 -- TODO Below
-##### [AdjacencyMatrixWithBooleanArraysCreation#1.3.6.1.4.1.33097.0.2.4](./algorithms/concrete/AdjacencyMatrixWithBooleanArraysCreation.md)
-##### [AdjacencyMatrixWithBitSlotMapsCreation#1.3.6.1.4.1.33097.0.2.5](./algorithms/concrete/AdjacencyMatrixWithBitSlotMapsCreation.md)
-##### [UpstreamOriginNodesIdentificationWithBooleanArrays#1.3.6.1.4.1.33097.0.2.6](./algorithms/concrete/UpstreamOriginNodesIdentificationWithBooleanArrays.md)
-##### [UpstreamOriginNodesIdentificationWithBitSlotMaps#1.3.6.1.4.1.33097.0.2.7](./algorithms/concrete/UpstreamOriginNodesIdentificationWithBitSlotMaps.md)
-##### [DirectedNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.8](./algorithms/concrete/DirectedNodeNetworkIdentification.md)
-##### [DirectedAcyclicNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.9](./algorithms/concrete/DirectedAcyclicNodeNetworkIdentification.md)
+<h5><a href="./algorithms/concrete/AdjacencyMatrixWithBooleanArraysCreation">AdjacencyMatrixWithBooleanArraysCreation#1.3.6.1.4.1.33097.0.2.4</a></h5>
+<h5><a href="./algorithms/concrete/AdjacencyMatrixWithBitSlotMapsCreation">AdjacencyMatrixWithBitSlotMapsCreation#1.3.6.1.4.1.33097.0.2.5</a></h5>
+<h5><a href="./algorithms/concrete/UpstreamOriginNodesIdentificationWithBooleanArrays">UpstreamOriginNodesIdentificationWithBooleanArrays#1.3.6.1.4.1.33097.0.2.6</a></h5>
+<h5><a href="./algorithms/concrete/UpstreamOriginNodesIdentificationWithBitSlotMaps">UpstreamOriginNodesIdentificationWithBitSlotMaps#1.3.6.1.4.1.33097.0.2.7</a></h5>
+<h5><a href="./algorithms/concrete/DirectedNodeNetworkIdentification">DirectedNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.8</a></h5>
+<h5><a href="./algorithms/concrete/DirectedAcyclicNodeNetworkIdentification">DirectedAcyclicNodeNetworkIdentification#1.3.6.1.4.1.33097.0.2.9</a></h5>
 
 </details>
 
@@ -69,18 +69,18 @@ This is a place to store academic and non-academic papers mostly in markdown fil
 
 These are patterns that involve the interaction of multiple systems / programs.
 
-##### [ACID#1.3.6.1.4.1.33097.3.0](./architecture/ACID.md)
-##### [BASE#1.3.6.1.4.1.33097.3.1](./architecture/BASE.md)
+<h5><a href="./architecture/ACID">ACID#1.3.6.1.4.1.33097.3.0</a></h5>
+<h5><a href="./architecture/BASE">BASE#1.3.6.1.4.1.33097.3.1</a></h5>
 
 
-##### [Modeling#1.3.6.1.4.1.33097.3.20](./architecture/Modeling.md)
+<h5><a href="./architecture/Modeling">Modeling#1.3.6.1.4.1.33097.3.20</a></h5>
 
-##### [Objects#1.3.6.1.4.1.33097.3.25](./architecture/Objects.md)
-##### [Sets#1.3.6.1.4.1.33097.3.26](./architecture/Sets.md)
-##### [Classes#1.3.6.1.4.1.33097.3.30](./architecture/Classes.md)
-##### [ActiveModeling(aka AM)#1.3.6.1.4.1.33097.3.31](./architecture/AM.md)
-##### [PassiveModeling(aka PM)#1.3.6.1.4.1.33097.3.32](./architecture/PM.md)
-##### [Interfaces#1.3.6.1.4.1.33097.3.33](./architecture/Interfaces.md)
+<h5><a href="./architecture/Objects">Objects#1.3.6.1.4.1.33097.3.25</a></h5>
+<h5><a href="./architecture/Sets">Sets#1.3.6.1.4.1.33097.3.26</a></h5>
+<h5><a href="./architecture/Classes">Classes#1.3.6.1.4.1.33097.3.30</a></h5>
+<h5><a href="./architecture/AM">ActiveModeling(aka AM)#1.3.6.1.4.1.33097.3.31</a></h5>
+<h5><a href="./architecture/PM">PassiveModeling(aka PM)#1.3.6.1.4.1.33097.3.32</a></h5>
+<h5><a href="./architecture/Interfaces">Interfaces#1.3.6.1.4.1.33097.3.33</a></h5>
 
 
 </details>
@@ -90,12 +90,12 @@ These are patterns that involve the interaction of multiple systems / programs.
 <details markdown="block" id="uml-details">
   <summary>Concepts Derived from UML and Other Sources Details</summary>
 
-##### [UML#1.3.6.1.4.1.33097.3.50](./architecture/UML.md)
-##### [AML#1.3.6.1.4.1.33097.3.51](./architecture/AML.md)
+<h5><a href="./architecture/UML">UML#1.3.6.1.4.1.33097.3.50</a></h5>
+<h5><a href="./architecture/AML">AML#1.3.6.1.4.1.33097.3.51</a></h5>
 
-##### [Association#1.3.6.1.4.1.33097.3.85](./architecture/Association.md)
-##### [Generalization#1.3.6.1.4.1.33097.3.86](./architecture/Generalization.md)
-##### [Specialization#1.3.6.1.4.1.33097.3.87](./architecture/Specialization.md)
+<h5><a href="./architecture/Association">Association#1.3.6.1.4.1.33097.3.85</a></h5>
+<h5><a href="./architecture/Generalization">Generalization#1.3.6.1.4.1.33097.3.86</a></h5>
+<h5><a href="./architecture/Specialization">Specialization#1.3.6.1.4.1.33097.3.87</a></h5>
 
 </details>
 
@@ -104,13 +104,13 @@ These are patterns that involve the interaction of multiple systems / programs.
 <details markdown="block" id="legacy-system-details">
   <summary>Legacy System Structural Design Pattern Details</summary>
 
-##### [Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94](./architecture/MVA.md)
-##### [Matrix Memory Models(aka MMM)#1.3.6.1.4.1.33097.3.95](./architecture/MMM.md)
-##### [Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.96](./architecture/MVC.md)
-##### [Model View Presenter(aka MVP)#1.3.6.1.4.1.33097.3.97](./architecture/MVP.md)
-##### [Model View View Model#1.3.6.1.4.1.33097.3.98](./architecture/MVVM.md)
-##### [Supervising Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.99](./architecture/MVC.md)
-##### [Model View Attendant (aka MV@)#1.3.6.1.4.1.33097.3.100](./architecture/MV@.md)
+<h5><a href="./architecture/MVA">Model View Adaptor(aka MVA)#1.3.6.1.4.1.33097.3.94</a></h5>
+<h5><a href="./architecture/MMM">Matrix Memory Models(aka MMM)#1.3.6.1.4.1.33097.3.95</a></h5>
+<h5><a href="./architecture/MVC">Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.96</a></h5>
+<h5><a href="./architecture/MVP">Model View Presenter(aka MVP)#1.3.6.1.4.1.33097.3.97</a></h5>
+<h5><a href="./architecture/MVVM">Model View View Model#1.3.6.1.4.1.33097.3.98</a></h5>
+<h5><a href="./architecture/MVC">Supervising Model View Controller(aka MVC)#1.3.6.1.4.1.33097.3.99</a></h5>
+<h5><a href="./architecture/MV@">Model View Attendant (aka MV@)#1.3.6.1.4.1.33097.3.100</a></h5>
   Note MV@ was depricated on 2026-01-10, due to work on [UITs](https://github.com/adligo/uit.ts.adligo.org).
 
 </details>
@@ -120,7 +120,7 @@ These are patterns that involve the interaction of multiple systems / programs.
 <details markdown="block" id="recommended-system-details">
   <summary>Recommended System Structural Design Pattern Details</summary>
 
-##### [Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101](./architecture/MVP@.md)
+<h5><a href="./architecture/MVP@">Model View Presenter Attendant#1.3.6.1.4.1.33097.3.101</a></h5>
 
 ##### Coming Soon ...
 ##### Micro-Services Summary
@@ -135,15 +135,15 @@ These are patterns that involve the interaction of multiple systems / programs.
 <details markdown="block" id="data-details">
   <summary>Data and Normalization Details</summary>
 
-##### [RelationalNormalForms#1.3.6.1.4.1.33097.5.0](./data/RelationalNormalForms.md)
-##### [StringNormalization#1.3.6.1.4.1.33097.5.1](./data/StringNormalization.md)
-##### [IntegerNormalizationTheory#1.3.6.1.4.1.33097.5.2](./data/IntegerNormalizationTheory.md)
-##### [StringToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.3](./data/StringToIntegerArrayNormalization.md)
-##### [DecimalToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.4](./data/DecimalToIntegerArrayNormalization.md)
-##### [Encoding#1.3.6.1.4.1.33097.5.5](./data/Encoding.md)
-##### [VectorEncoding#1.3.6.1.4.1.33097.5.6](./data/VectorEncoding.md)
-##### [VectorEmbedding#1.3.6.1.4.1.33097.5.7](./data/VectorEmbedding.md)
-##### [DataSets#1.3.6.1.4.1.33097.5.8](./data/DataSets.md)
+<h5><a href="./data/RelationalNormalForms">RelationalNormalForms#1.3.6.1.4.1.33097.5.0</a></h5>
+<h5><a href="./data/StringNormalization">StringNormalization#1.3.6.1.4.1.33097.5.1</a></h5>
+<h5><a href="./data/IntegerNormalizationTheory">IntegerNormalizationTheory#1.3.6.1.4.1.33097.5.2</a></h5>
+<h5><a href="./data/StringToIntegerArrayNormalization">StringToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.3</a></h5>
+<h5><a href="./data/DecimalToIntegerArrayNormalization">DecimalToIntegerArrayNormalization#1.3.6.1.4.1.33097.5.4</a></h5>
+<h5><a href="./data/Encoding">Encoding#1.3.6.1.4.1.33097.5.5</a></h5>
+<h5><a href="./data/VectorEncoding">VectorEncoding#1.3.6.1.4.1.33097.5.6</a></h5>
+<h5><a href="./data/VectorEmbedding">VectorEmbedding#1.3.6.1.4.1.33097.5.7</a></h5>
+<h5><a href="./data/DataSets">DataSets#1.3.6.1.4.1.33097.5.8</a></h5>
 
 </details>
 
@@ -155,30 +155,30 @@ These are patterns that involve the interaction of multiple systems / programs.
 ##### Id: #1.3.6.1.4.1.33097.1.0
 These are abstract data structures that may have multiple implementations each with specific concrete implementation details.
 
-##### [Lists#1.3.6.1.4.1.33097.1.0.0](./data_structures/Lists.md)
-##### [BinaryTrees#1.3.6.1.4.1.33097.1.0.1](./data_structures/BinaryTrees.md)
-##### [Blocks#1.3.6.1.4.1.33097.1.0.2](./data_structures/Blocks.md)
-##### [Maps#1.3.6.1.4.1.33097.1.0.3](./data_structures/Maps.md)
-##### [HashTables#1.3.6.1.4.1.33097.1.0.4](./data_structures/HashTables.md)
-##### [HashCodes#1.3.6.1.4.1.33097.1.0.4.0](./data_structures/HashCodes.md)
-##### [ConsistentHashCodes#1.3.6.1.4.1.33097.1.0.4.1](./data_structures/ConsistentHashCodes.md)
-##### [HashCodeChains#1.3.6.1.4.1.33097.1.0.4.2](./data_structures/HashCodeChains.md)
-##### [ConsistentHashCodeChains#1.3.6.1.4.1.33097.1.0.4.3](./data_structures/ConsistentHashCodeChains.md)
-##### [AssociativeArrays#1.3.6.1.4.1.33097.1.0.5](./data_structures/AssociativeArrays.md)
-##### [Sets#1.3.6.1.4.1.33097.1.0.6](./data_structures/Sets.md)
-##### [BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7](./data_structures/BitSlotBlocks.md)
+<h5><a href="./data_structures/Lists">Lists#1.3.6.1.4.1.33097.1.0.0</a></h5>
+<h5><a href="./data_structures/BinaryTrees">BinaryTrees#1.3.6.1.4.1.33097.1.0.1</a></h5>
+<h5><a href="./data_structures/Blocks">Blocks#1.3.6.1.4.1.33097.1.0.2</a></h5>
+<h5><a href="./data_structures/Maps">Maps#1.3.6.1.4.1.33097.1.0.3</a></h5>
+<h5><a href="./data_structures/HashTables">HashTables#1.3.6.1.4.1.33097.1.0.4</a></h5>
+<h5><a href="./data_structures/HashCodes">HashCodes#1.3.6.1.4.1.33097.1.0.4.0</a></h5>
+<h5><a href="./data_structures/ConsistentHashCodes">ConsistentHashCodes#1.3.6.1.4.1.33097.1.0.4.1</a></h5>
+<h5><a href="./data_structures/HashCodeChains">HashCodeChains#1.3.6.1.4.1.33097.1.0.4.2</a></h5>
+<h5><a href="./data_structures/ConsistentHashCodeChains">ConsistentHashCodeChains#1.3.6.1.4.1.33097.1.0.4.3</a></h5>
+<h5><a href="./data_structures/AssociativeArrays">AssociativeArrays#1.3.6.1.4.1.33097.1.0.5</a></h5>
+<h5><a href="./data_structures/Sets">Sets#1.3.6.1.4.1.33097.1.0.6</a></h5>
+<h5><a href="./data_structures/BitSlotBlocks">BitSlotBlocks#1.3.6.1.4.1.33097.1.0.7</a></h5>
 
-##### [NodeNetworks#1.3.6.1.4.1.33097.1.0.12](./data_structures/abstract/NodeNetworks.md)
-##### [DirectedNodeNetworks#1.3.6.1.4.1.33097.1.0.13](./data_structures/abstract/DirectedNodeNetworks.md)
-##### [Graphs#1.3.6.1.4.1.33097.1.0.14](./data_structures/abstract/Graphs.md)
-##### [NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15](./data_structures/abstract/NodeNetworkSets.md)
-##### [DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16](./data_structures/abstract/DirectedAcyclicGraphs.md)
-##### [Collections#1.3.6.1.4.1.33097.1.0.17](./data_structures/abstract/Collections.md)
+<h5><a href="./data_structures/abstract/NodeNetworks">NodeNetworks#1.3.6.1.4.1.33097.1.0.12</a></h5>
+<h5><a href="./data_structures/abstract/DirectedNodeNetworks">DirectedNodeNetworks#1.3.6.1.4.1.33097.1.0.13</a></h5>
+<h5><a href="./data_structures/abstract/Graphs">Graphs#1.3.6.1.4.1.33097.1.0.14</a></h5>
+<h5><a href="./data_structures/abstract/NodeNetworkSets">NodeNetworkSets#1.3.6.1.4.1.33097.1.0.15</a></h5>
+<h5><a href="./data_structures/abstract/DirectedAcyclicGraphs">DirectedAcyclicGraphs#1.3.6.1.4.1.33097.1.0.16</a></h5>
+<h5><a href="./data_structures/abstract/Collections">Collections#1.3.6.1.4.1.33097.1.0.17</a></h5>
 
-##### [AdjacencyMaps#1.3.6.1.4.1.33097.1.0.19](./data_structures/abstract/AdjacencyMaps.md)
-##### [AdjacencyMatrices#1.3.6.1.4.1.33097.1.0.20](./data_structures/abstract/AdjacencyMatrices.md)
-##### [AdjacencyMatrixMaps#1.3.6.1.4.1.33097.1.0.21](./data_structures/abstract/AdjacencyMatrixMaps.md)
-##### [ZigguratIndices#1.3.6.1.4.1.33097.1.0.50](./data_structures/ZigguratIndices.md)
+<h5><a href="./data_structures/abstract/AdjacencyMaps">AdjacencyMaps#1.3.6.1.4.1.33097.1.0.19</a></h5>
+<h5><a href="./data_structures/abstract/AdjacencyMatrices">AdjacencyMatrices#1.3.6.1.4.1.33097.1.0.20</a></h5>
+<h5><a href="./data_structures/abstract/AdjacencyMatrixMaps">AdjacencyMatrixMaps#1.3.6.1.4.1.33097.1.0.21</a></h5>
+<h5><a href="./data_structures/ZigguratIndices">ZigguratIndices#1.3.6.1.4.1.33097.1.0.50</a></h5>
 
 </details>
 
@@ -187,13 +187,13 @@ These are abstract data structures that may have multiple implementations each w
 <details markdown="block" id="abstract-data-aliases-details">
   <summary>Abstract Data Structures Alias Details</summary>
 
-##### [Chunks#1.3.6.1.4.1.33097.1.2.0](./data_structures/abstract/aliases/Chunks.md)
-##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](./data_structures/abstract/aliases/Dictionaries.md)
-##### [BitMaps#1.3.6.1.4.1.33097.1.2.2](./data_structures/abstract/aliases/BitMaps.md)
-##### [BitArrays#1.3.6.1.4.1.33097.1.2.3](./data_structures/abstract/aliases/BitArrays.md)
-##### [BitStrings#1.3.6.1.4.1.33097.1.2.4](./data_structures/abstract/aliases/BitStrings.md)
-##### [BitVectors#1.3.6.1.4.1.33097.1.2.5](./data_structures/abstract/aliases/BitVectors.md)
-##### [Vertices#1.3.6.1.4.1.33097.1.2.6](./data_structures/abstract/aliases/Vertices.md)
+<h5><a href="./data_structures/abstract/aliases/Chunks">Chunks#1.3.6.1.4.1.33097.1.2.0</a></h5>
+<h5><a href="./data_structures/abstract/aliases/Dictionaries">Dictionaries#1.3.6.1.4.1.33097.1.2.1</a></h5>
+<h5><a href="./data_structures/abstract/aliases/BitMaps">BitMaps#1.3.6.1.4.1.33097.1.2.2</a></h5>
+<h5><a href="./data_structures/abstract/aliases/BitArrays">BitArrays#1.3.6.1.4.1.33097.1.2.3</a></h5>
+<h5><a href="./data_structures/abstract/aliases/BitStrings">BitStrings#1.3.6.1.4.1.33097.1.2.4</a></h5>
+<h5><a href="./data_structures/abstract/aliases/BitVectors">BitVectors#1.3.6.1.4.1.33097.1.2.5</a></h5>
+<h5><a href="./data_structures/abstract/aliases/Vertices">Vertices#1.3.6.1.4.1.33097.1.2.6</a></h5>
 
 </details>
 
@@ -204,25 +204,25 @@ These are abstract data structures that may have multiple implementations each w
 
 ##### Id: #1.3.6.1.4.1.33097.1.1
 
-##### [Arrays#1.3.6.1.4.1.33097.1.1.0](./data_structures/Arrays.md)
-##### [ArrayLists#1.3.6.1.4.1.33097.1.1.1](./data_structures/ArrayLists.md)
-##### [BitSets#1.3.6.1.4.1.33097.1.1.2](./data_structures/BitSets.md)
+<h5><a href="./data_structures/Arrays">Arrays#1.3.6.1.4.1.33097.1.1.0</a></h5>
+<h5><a href="./data_structures/ArrayLists">ArrayLists#1.3.6.1.4.1.33097.1.1.1</a></h5>
+<h5><a href="./data_structures/BitSets">BitSets#1.3.6.1.4.1.33097.1.1.2</a></h5>
 #### BitSlotMaps
-##### [BitSlotMaps#1.3.6.1.4.1.33097.1.1.3](./data_structures/BitSlotMaps.md)
-##### [B-TreeIndices#1.3.6.1.4.1.33097.1.1.4](./data_structures/B-TreeIndices.md)
-##### [LinkedLists#1.3.6.1.4.1.33097.1.1.5](./data_structures/LinkedLists.md)
-##### [DoublyLinkedLists#1.3.6.1.4.1.33097.1.1.6](./data_structures/DoublyLinkedLists.md)
-##### [Heaps#1.3.6.1.4.1.33097.1.1.7](./data_structures/Heaps.md)
-##### [ArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.8](./data_structures/ArrayBitSlotBlocks.md)
-##### [DoublyLinkedBitSlotBlocks#1.3.6.1.4.1.33097.1.1.9](./data_structures/DoublyLinkedBitSlotBlocks.md)
-##### [CompressedArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.10](./data_structures/CompressedArrayBitSlotBlocks.md)
-##### [RedBlackTrees#1.3.6.1.4.1.33097.1.1.11](./data_structures/RedBlackTrees.md)
-##### [RedBlackBitSlotBlocks#1.3.6.1.4.1.33097.1.1.12](./data_structures/RedBlackBitSlotBlocks.md)
-##### [SingleBitSlotBlocks#1.3.6.1.4.1.33097.1.1.13](./data_structures/SingleBitSlotBlocks.md)
+<h5><a href="./data_structures/BitSlotMaps">BitSlotMaps#1.3.6.1.4.1.33097.1.1.3</a></h5>
+<h5><a href="./data_structures/B-TreeIndices">B-TreeIndices#1.3.6.1.4.1.33097.1.1.4</a></h5>
+<h5><a href="./data_structures/LinkedLists">LinkedLists#1.3.6.1.4.1.33097.1.1.5</a></h5>
+<h5><a href="./data_structures/DoublyLinkedLists">DoublyLinkedLists#1.3.6.1.4.1.33097.1.1.6</a></h5>
+<h5><a href="./data_structures/Heaps">Heaps#1.3.6.1.4.1.33097.1.1.7</a></h5>
+<h5><a href="./data_structures/ArrayBitSlotBlocks">ArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.8</a></h5>
+<h5><a href="./data_structures/DoublyLinkedBitSlotBlocks">DoublyLinkedBitSlotBlocks#1.3.6.1.4.1.33097.1.1.9</a></h5>
+<h5><a href="./data_structures/CompressedArrayBitSlotBlocks">CompressedArrayBitSlotBlocks#1.3.6.1.4.1.33097.1.1.10</a></h5>
+<h5><a href="./data_structures/RedBlackTrees">RedBlackTrees#1.3.6.1.4.1.33097.1.1.11</a></h5>
+<h5><a href="./data_structures/RedBlackBitSlotBlocks">RedBlackBitSlotBlocks#1.3.6.1.4.1.33097.1.1.12</a></h5>
+<h5><a href="./data_structures/SingleBitSlotBlocks">SingleBitSlotBlocks#1.3.6.1.4.1.33097.1.1.13</a></h5>
 
 
 
-##### [SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100](./data_structures/SimpleZigguratDiskStructures.md)
+<h5><a href="./data_structures/SimpleZigguratDiskStructures">SimpleZigguratDiskStructures#1.3.6.1.4.1.33097.1.1.100</a></h5>
 
 
 ##### Coming Soon ...
@@ -250,8 +250,8 @@ These are abstract data structures that may have multiple implementations each w
 
 ##### Id: #1.3.6.1.4.1.33097.1.2
 
-##### [Chunks#1.3.6.1.4.1.33097.1.2.0](./data_structures/abstract/aliases/Chunks.md)
-##### [Dictionaries#1.3.6.1.4.1.33097.1.2.1](./data_structures/abstract/aliases/Dictionaries.md)
+<h5><a href="./data_structures/abstract/aliases/Chunks">Chunks#1.3.6.1.4.1.33097.1.2.0</a></h5>
+<h5><a href="./data_structures/abstract/aliases/Dictionaries">Dictionaries#1.3.6.1.4.1.33097.1.2.1</a></h5>
 
 </details>
 
@@ -303,11 +303,11 @@ In order of importance
 <details markdown="block" id="ietf-details">
   <summary>IETF Internet Draft [I-D] Details</summary>
 
-##### [ASBP#1.3.6.1.4.1.33097.8.0](./ietf-drafts/ASBP.md)
-##### [Ten64#1.3.6.1.4.1.33097.8.1](./ietf-drafts/Ten64.md)
-##### [ESTN#1.3.6.1.4.1.33097.8.2](./ietf-drafts/ESTN.md)
-##### [EJCN#1.3.6.1.4.1.33097.8.3](./ietf-drafts/EJCN.md)
-##### [EJCNS#1.3.6.1.4.1.33097.8.4](./ietf-drafts/EJCNS.md)
+<h5><a href="./ietf-drafts/ASBP">ASBP#1.3.6.1.4.1.33097.8.0</a></h5>
+<h5><a href="./ietf-drafts/Ten64">Ten64#1.3.6.1.4.1.33097.8.1</a></h5>
+<h5><a href="./ietf-drafts/ESTN">ESTN#1.3.6.1.4.1.33097.8.2</a></h5>
+<h5><a href="./ietf-drafts/EJCN">EJCN#1.3.6.1.4.1.33097.8.3</a></h5>
+<h5><a href="./ietf-drafts/EJCNS">EJCNS#1.3.6.1.4.1.33097.8.4</a></h5>
 
 </details>
 
