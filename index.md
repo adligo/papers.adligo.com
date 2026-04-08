@@ -335,25 +335,3 @@ This page has duplicates which allow referencing by named anchors i.e. [BitSlotM
 © Copyright 2025 Adligo Inc
 
 
-<script>
-  // 1. Grab the current URL when the page loads
-  const currentUrl = new URL(window.location.href);
-  
-  // 2. Check if the 'v' parameter is already present
-  if ( !currentUrl.searchParams.has('v')) {
-    
-    // 3. Since 'v' exists, start the 60-second interval
-    setInterval(function() {
-      // Generate a new timestamp
-      const timestamp = new Date().getTime();
-      
-      // Update the 'v' parameter with the fresh timestamp
-      currentUrl.searchParams.set('v', timestamp);
-      
-      // Reload the page
-      window.location.href = currentUrl.toString();
-      
-    }, 500); // 60,000 milliseconds = 1 minute
-    
-  }
-</script>
