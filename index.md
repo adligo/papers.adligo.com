@@ -308,8 +308,8 @@ In order of importance
 <h5><a href="./ietf-drafts/ESTN">ESTN#1.3.6.1.4.1.33097.8.2</a></h5>
 <h5><a href="./ietf-drafts/EJCN">EJCN#1.3.6.1.4.1.33097.8.3</a></h5>
 <h5><a href="./ietf-drafts/EJCNS">EJCNS#1.3.6.1.4.1.33097.8.4</a></h5>
-<h5><a href="./ietf-drafts/Ten10b">EJCNS#1.3.6.1.4.1.33097.8.5</a></h5>
-<h5><a href="./ietf-drafts/XCN">EJCNS#1.3.6.1.4.1.33097.8.6</a></h5>
+<h5><a href="./ietf-drafts/Ten10b">Ten10b#1.3.6.1.4.1.33097.8.5</a></h5>
+<h5><a href="./ietf-drafts/XCN">XCN#1.3.6.1.4.1.33097.8.6</a></h5>
 <h5><a href="./ietf-drafts/XCNS">XCNS#1.3.6.1.4.1.33097.8.7</a></h5>
 <h5><a href="./ietf-drafts/XSTN">XSTN#1.3.6.1.4.1.33097.8.8</a></h5>
 
