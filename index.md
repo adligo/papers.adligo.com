@@ -308,6 +308,10 @@ In order of importance
 <h5><a href="./ietf-drafts/ESTN">ESTN#1.3.6.1.4.1.33097.8.2</a></h5>
 <h5><a href="./ietf-drafts/EJCN">EJCN#1.3.6.1.4.1.33097.8.3</a></h5>
 <h5><a href="./ietf-drafts/EJCNS">EJCNS#1.3.6.1.4.1.33097.8.4</a></h5>
+<h5><a href="./ietf-drafts/Ten10b">EJCNS#1.3.6.1.4.1.33097.8.5</a></h5>
+<h5><a href="./ietf-drafts/XCN">EJCNS#1.3.6.1.4.1.33097.8.6</a></h5>
+<h5><a href="./ietf-drafts/XCNS">XCNS#1.3.6.1.4.1.33097.8.7</a></h5>
+<h5><a href="./ietf-drafts/XSTN">XSTN#1.3.6.1.4.1.33097.8.8</a></h5>
 
 </details>
 
@@ -329,4 +333,27 @@ This site is hosted using GitHub Pages from this git repo;
 This page has duplicates which allow referencing by named anchors i.e. [BitSlotMaps](#bitslotmaps)
 
 © Copyright 2025 Adligo Inc
-a
+
+
+<script>
+  // 1. Grab the current URL when the page loads
+  const currentUrl = new URL(window.location.href);
+  
+  // 2. Check if the 'v' parameter is already present
+  if ( !currentUrl.searchParams.has('v')) {
+    
+    // 3. Since 'v' exists, start the 60-second interval
+    setInterval(function() {
+      // Generate a new timestamp
+      const timestamp = new Date().getTime();
+      
+      // Update the 'v' parameter with the fresh timestamp
+      currentUrl.searchParams.set('v', timestamp);
+      
+      // Reload the page
+      window.location.href = currentUrl.toString();
+      
+    }, 500); // 60,000 milliseconds = 1 minute
+    
+  }
+</script>

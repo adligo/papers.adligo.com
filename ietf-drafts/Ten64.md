@@ -1,9 +1,9 @@
 ---
 layout: cd1
-title: Ten 64 (Text Encoded Numbers)
+title: Ten64 (Text Encoded Base 64 Numbers)
 ---
 
-# Ten 64 (Text Encoded Numbers)
+# Ten64 (Text Encoded Base 64 Numbers)
 
 <div>
 <strong>Author:</strong> Scott Morgan<br/>
